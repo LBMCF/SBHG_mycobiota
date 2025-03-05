@@ -1,0 +1,1213 @@
+;X;sh;phylum;class;order;family;genus;species
+1;1774;KF176610.1.1631;Basidiomycota;Agaricomycetes;Haplosclerida;;Haliclona;Haliclona sp. BC1
+2;7167;JB973635.6.1232;Ascomycota;Sordariomycetes;Melanosporales;;Sphaerodes;Sphaerodes mycoparasitica
+3;10532;AB016010.1.1740;Zoopagomycotina;Zoopagales;Zoopagales;Kuzuhaea moniliformis;Kuzuhaea;Kuzuhaea moniliformis
+4;10694;AB016013.1.1900;Zoopagomycotina;Zoopagales;Zoopagales;Thamnocephalis;Thamnocephalis;Thamnocephalis sphaerospora
+5;11450;AB011050.1.1649;Basidiomycota;Pucciniomycetes;Pucciniales;;Aecidium;Aecidium epimedii
+6;12612;AB015052.1.1785;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Ambispora;Ambispora leptoticha
+7;12674;AB016017.1.1720;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella verticillata
+8;12827;AB016173.1.1605;Ascomycota;Leotiomycetes;Thelebolales;Pseudogymnoascus pannorum var. asperulatus;Pseudogymnoascus;Pseudogymnoascus pannorum var. asperulatus
+9;13000;AB016011.1.1900;Zoopagomycotina;Zoopagales;Zoopagales;Syncephalis depressa;Syncephalis;Syncephalis depressa
+10;13061;AB015785.1.2050;Ascomycota;Leotiomycetes;Thelebolales;Pseudogymnoascus pannorum var. pannorum;Pseudogymnoascus;Pseudogymnoascus pannorum var. pannorum
+11;13069;KF925452.1.1251;Basidiomycota;Agaricomycetes;Polyporales;;Ganoderma;Ganoderma boninense
+12;13609;AB016023.1.1736;Zoopagomycotina;Zoopagales;Zoopagales;Piptocephalis;Piptocephalis;Piptocephalis corymbifera
+13;14022;AB016015.1.1746;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. oligosporus
+14;14283;AB016174.1.1605;Ascomycota;Leotiomycetes;Thelebolales;Pseudogymnoascus pannorum;Pseudogymnoascus;Pseudogymnoascus pannorum
+15;17731;AB047308.1.1794;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Ambispora;Ambispora leptoticha
+16;20461;AB047304.1.1794;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Ambispora;Ambispora leptoticha
+17;21704;AB196323.1.1566;Kickxellomycotina;Kickxellales;Kickxellales;Ramicandelaber;Ramicandelaber;Ramicandelaber brevisporus
+18;23021;AB196322.1.1565;Kickxellomycotina;Kickxellales;Kickxellales;Ramicandelaber;Ramicandelaber;Ramicandelaber longisporus
+19;23942;AB250167.1.1763;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus stolonifer var. stolonifer
+20;24256;AB278185.1.1663;Ascomycota;Sordariomycetes;Cephalothecales;;Phialemonium;Phialemonium dimorphosporum
+21;24493;AB250170.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus schipperae
+22;24510;AB250175.1.1756;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus homothallicus
+23;24561;AB287986.1.1810;Kickxellomycotina;Kickxellales;Kickxellales;Pinnaticoemansia;Pinnaticoemansia;Pinnaticoemansia coronantispora
+24;24598;AB250161.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. rhizopodiformis
+25;24698;AB287983.1.1820;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia sp. KFC01-30
+26;24786;AB250177.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. oligosporus
+27;25580;AB250171.1.1757;Mucoromycotina;Mucorales;Mucorales;Amylomyces;Amylomyces;Amylomyces rouxii
+28;25595;AB250176.1.1762;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus stolonifer var. stolonifer
+29;25865;AB250169.1.1761;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus americanus
+30;25886;AB287984.1.1810;Kickxellomycotina;Kickxellales;Kickxellales;Myconymphaea;Myconymphaea;Myconymphaea yatsukahoi
+31;25911;AB250165.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. microsporus
+32;25930;AB250173.1.1762;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus stolonifer var. lyococcos
+33;25951;AB250168.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus caespitosus
+34;25970;AB250174.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus oryzae
+35;26191;AB250156.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus azygosporus
+36;26230;AB250166.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. oligosporus
+37;26492;AB250164.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus oryzae
+38;26508;AB250172.1.1762;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus stolonifer var. lyococcos
+39;26854;AB250159.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus azygosporus
+40;27212;AB295428.1.3219;Kickxellomycotina;Kickxellales;Kickxellales;Linderina;Linderina;Linderina macrospora
+41;27350;AB287982.1.2895;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia sp. Kimi
+42;27630;AB250162.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus schipperae
+43;27839;AB250157.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. chinensis
+44;28167;AB250160.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. rhizopodiformis
+45;28509;AB287981.1.1780;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia spiralis
+46;28881;AB287991.1.1801;Kickxellomycotina;Kickxellales;Kickxellales;Ramicandelaber;Ramicandelaber;Ramicandelaber sp. KYK00187
+47;30185;AB250158.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. chinensis
+48;30341;AB250163.1.1757;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus sexualis var. sexualis
+49;31238;AB016009.1.1618;Zoopagomycotina;Zoopagales;Zoopagales;Zoophagus insidians;Zoophagus;Zoophagus insidians
+50;35191;AB586077.1.1836;Incertae Sedis;Cladochytriales;Cladochytriales;Cladochytrium;Cladochytrium;Cladochytrium sp. NBRC 105429
+51;35873;AB586075.1.2152;Incertae Sedis;Spizellomycetales;Spizellomycetales;Spizellomyces;Spizellomyces;Spizellomyces sp. NBRC 105423
+52;41525;AF038590.1.1753;Glomeromycotina;Diversisporales;Diversisporales;Racocetra;Racocetra;Racocetra castanea
+53;42468;AF007535.1.1747;Kickxellomycotina;Harpellales;Harpellales;Furculomyces boomerangus;Furculomyces;Furculomyces boomerangus
+54;42682;AF007543.1.1751;Kickxellomycotina;Kickxellales;Kickxellales;Spiromyces;Spiromyces;Spiromyces aspiralis
+55;42886;AF082679.1.1577;Basidiomycota;Agaricomycetes;Polyporales;;Donkioporia;Donkioporia expansa
+56;43130;AF007542.1.1758;Kickxellomycotina;Kickxellales;Kickxellales;Spiromyces;Spiromyces;Spiromyces minutus
+57;43171;AF007539.1.1759;Kickxellomycotina;Kickxellales;Kickxellales;Martensiomyces;Martensiomyces;Martensiomyces pterosporus
+58;43334;AF007532.1.1780;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia braziliensis
+59;43655;AF026632.1.1756;Basidiomycota;Agaricomycetes;Polyporales;;Albatrellus;Albatrellus syringae
+60;44146;AF052403.1.1794;Entomophthoromycotina;Entomophthorales;Entomophthorales;Eryniopsis;Eryniopsis;Eryniopsis ptycopterae
+61;44164;AF113431.1.1759;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor ramosissimus
+62;44200;AF052406.1.1736;Entomophthoromycotina;Entomophthorales;Entomophthorales;Strongwellsea;Strongwellsea;Strongwellsea castrans
+63;44680;AF007534.1.1757;Kickxellomycotina;Kickxellales;Kickxellales;Dipsacomyces;Dipsacomyces;Dipsacomyces acuminosporus
+64;44685;AF007537.1.1754;Kickxellomycotina;Kickxellales;Kickxellales;Kickxella;Kickxella;Kickxella alabastrina
+65;45080;AF113423.1.1771;Mucoromycotina;Mucorales;Mucorales;Cunninghamella;Cunninghamella;Cunninghamella polymorpha
+66;45207;AB250155.1.1756;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. microsporus
+67;45264;AF157123.1.1744;Mucoromycotina;Mucorales;Mucorales;Benjaminiella;Benjaminiella;Benjaminiella poitrasii
+68;45427;AB287987.1.1801;Kickxellomycotina;Kickxellales;Kickxellales;Ramicandelaber;Ramicandelaber;Ramicandelaber brevisporus
+69;45864;AF113424.1.1721;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Lobosporangium;Lobosporangium transversale
+70;46082;AF007540.1.1816;Kickxellomycotina;Harpellales;Harpellales;Zancudomyces;Zancudomyces;Zancudomyces culisetae
+71;46145;AB287985.1.2272;Kickxellomycotina;Kickxellales;Kickxellales;Mycoemilia;Mycoemilia;Mycoemilia scoparia
+72;46183;AF157121.1.1751;Mucoromycotina;Mucorales;Mucorales;Backusella;Backusella;Backusella circina
+73;46218;AF157132.1.1753;Mucoromycotina;Mucorales;Mucorales;Dicranophora;Dicranophora;Dicranophora fulva
+74;46372;AF157141.1.1749;Mucoromycotina;Mucorales;Mucorales;Hyphomucor;Hyphomucor;Hyphomucor assamensis
+75;46387;AB295426.1.3203;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia sp. ID05-F0237
+76;46396;AF113426.1.1757;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor amphibiorum
+77;46404;AF157149.1.1750;Mucoromycotina;Mucorales;Mucorales;Parasitella;Parasitella;Parasitella parasitica
+78;46419;AF157155.1.1787;Mucoromycotina;Mucorales;Mucorales;Poitrasia;Poitrasia;Poitrasia circinans
+79;46659;AF007541.1.1798;Kickxellomycotina;Kickxellales;Kickxellales;Spirodactylon;Spirodactylon;Spirodactylon aureum
+80;46918;AF157137.1.1743;Mucoromycotina;Mucorales;Mucorales;Gongronella;Gongronella;Gongronella butleri
+81;46975;AF113410.1.1755;Mucoromycotina;Mucorales;Mucorales;Absidia;Absidia;Absidia repens
+82;47089;AF157122.1.1754;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor ctenidius
+83;47244;AF052402.1.1748;Entomophthoromycotina;Entomophthorales;Entomophthorales;Entomophthora;Entomophthora;Entomophthora schizophorae
+84;47312;AF157129.1.1748;Mucoromycotina;Mucorales;Mucorales;Circinomucor;Circinomucor;Circinomucor circinelloides
+85;47426;AF113415.1.1762;Mucoromycotina;Mucorales;Mucorales;Chlamydoabsidia;Chlamydoabsidia;Chlamydoabsidia padenii
+86;47450;AF157145.1.1719;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella verticillata
+87;47505;AF157156.1.1770;Mucoromycotina;Mucorales;Mucorales;Protomycocladus faisalabadensis;Protomycocladus;Protomycocladus faisalabadensis
+88;47535;AF007538.1.1753;Kickxellomycotina;Kickxellales;Kickxellales;Linderina;Linderina;Linderina pennispora
+89;47579;AF113428.1.1759;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor hiemalis f. hiemalis
+90;47607;AF157128.1.1740;Mucoromycotina;Mucorales;Mucorales;Circinella;Circinella;Circinella umbellata
+91;47751;AF157131.1.1756;Mucoromycotina;Mucorales;Mucorales;Dichotomocladium;Dichotomocladium;Dichotomocladium elegans
+92;47787;AF157140.1.1728;Mucoromycotina;Mucorales;Mucorales;Hesseltinella;Hesseltinella;Hesseltinella vesiculosa
+93;47821;AF157148.1.1750;Mucoromycotina;Mucorales;Mucorales;Mycotypha;Mycotypha;Mycotypha microspora
+94;47824;AF113407.1.1771;Mucoromycotina;Mucorales;Mucorales;Lichtheimia;Lichtheimia;Lichtheimia corymbifera
+95;47881;AF157170.1.1750;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor heterogamus
+96;48215;AF157126.1.1754;Mucoromycotina;Mucorales;Mucorales;Chaetocladium;Chaetocladium;Chaetocladium jonesii
+97;48235;AF113421.1.1771;Mucoromycotina;Mucorales;Mucorales;Cunninghamella;Cunninghamella;Cunninghamella bertholletiae
+98;48496;AF052404.1.1691;Entomophthoromycotina;Entomophthorales;Entomophthorales;Zoophthora;Zoophthora;Zoophthora radicans
+99;48516;AF113430.1.1760;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor racemosus
+100;48529;AF113442.1.1751;Mucoromycotina;Mucorales;Mucorales;Saksenaea vasiformis;Saksenaea;Saksenaea vasiformis
+101;48585;AF113405.1.1765;Mucoromycotina;Mucorales;Mucorales;Absidia;Absidia;Absidia caerulea
+102;48616;AF113433.1.1706;Mucoromycotina;Mucorales;Mucorales;Rhizomucor;Rhizomucor;Rhizomucor pusillus
+103;48658;AF007536.1.1901;Kickxellomycotina;Harpellales;Harpellales;Genistelloides;Genistelloides;Genistelloides hibernus
+104;48796;AF157146.1.1741;Mucoromycotina;Mucorales;Mucorales;Backusella;Backusella;Backusella indica
+105;48873;AF157167.1.1740;Mucoromycotina;Umbelopsidales;Umbelopsidales;Umbelopsis;Umbelopsis;Umbelopsis nana
+106;48947;AF157117.1.1794;Mucoromycotina;Mucorales;Mucorales;Lichtheimia;Lichtheimia;Lichtheimia blakesleeana
+107;49159;AF157134.1.1746;Mucoromycotina;Mucorales;Mucorales;Ellisomyces;Ellisomyces;Ellisomyces anomalus
+108;49184;AF113412.1.1761;Mucoromycotina;Mucorales;Mucorales;Apophysomyces elegans;Apophysomyces;Apophysomyces elegans
+109;49195;AF157133.1.1721;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Dissophora;Dissophora decumbens
+110;49214;AF157136.1.1750;Mucoromycotina;Mucorales;Mucorales;Gilbertella;Gilbertella;Gilbertella persicaria
+111;49270;AF157150.1.1742;Mucoromycotina;Mucorales;Mucorales;Phascolomyces;Phascolomyces;Phascolomyces articulosus
+112;49391;AF139733.1.1329;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis cf. geosporum W2538
+113;49515;AF157119.1.1753;Mucoromycotina;Mucorales;Mucorales;Actinomucor;Actinomucor;Actinomucor elegans
+114;49754;AF157143.1.1727;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella chlamydospora
+115;49786;AF157154.1.1755;Mucoromycotina;Mucorales;Mucorales;Pirella;Pirella;Pirella circinans
+116;49819;AF157165.1.1752;Mucoromycotina;Mucorales;Mucorales;Thermomucor;Thermomucor;Thermomucor indicae-seudaticae
+117;49871;AF157163.1.1754;Mucoromycotina;Mucorales;Mucorales;Thamnidium;Thamnidium;Thamnidium elegans
+118;49887;AF157166.1.1745;Mucoromycotina;Umbelopsidales;Umbelopsidales;Umbelopsis;Umbelopsis;Umbelopsis isabellina
+119;49945;AF157138.1.1766;Mucoromycotina;Mucorales;Mucorales;Halteromyces;Halteromyces;Halteromyces radiatus
+120;50101;AF277044.1.1861;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium fecundum
+121;50184;AF113417.1.1694;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus coronatus
+122;50203;AF113420.1.1794;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus lamprauges
+123;50218;AF277025.1.1836;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium phytotelmatum
+124;50237;AF277045.1.1864;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium megazygosporum
+125;50634;AF157162.1.1746;Mucoromycotina;Mucorales;Mucorales;Syzygites;Syzygites;Syzygites megalocarpus
+126;50750;AF164245.1.1743;Incertae Sedis;Spizellomycetales;Spizellomycetales;Powellomyces sp. JEL95;Powellomyces;Powellomyces sp. JEL95
+127;50884;AF113416.1.1757;Mucoromycotina;Mucorales;Mucorales;Cokeromyces;Cokeromyces;Cokeromyces recurvatus
+128;50923;AF277023.1.1858;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium cf. dipterorum
+129;51059;AF277022.1.1853;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium cf. phytotelmatum
+130;51071;AF277037.1.1886;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium gravimetallum
+131;51143;AF141970.1.1837;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucorales;Mucorales sp. AH-1999a
+132;51251;AF157158.1.1746;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. oligosporus
+133;51501;AF157147.1.1751;Mucoromycotina;Mucorales;Mucorales;Mycotypha;Mycotypha;Mycotypha africana
+134;51529;AF113441.1.1752;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus stolonifer
+135;51561;AF157169.1.1741;Mucoromycotina;Mucorales;Mucorales;Zychaea;Zychaea;Zychaea mexicana
+136;51877;AF277047.1.1898;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium culicis
+137;51936;AF141969.1.1838;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucorales;Mucorales sp. AH-1999b
+138;51959;AF085467.1.1753;Ascomycota;Lecanoromycetes;Teloschistales;;Leprocaulon;Leprocaulon sp. DePriest 8134
+139;52002;AF157130.1.1766;Mucoromycotina;Mucorales;Mucorales;Cunninghamella;Cunninghamella;Cunninghamella echinulata
+140;52082;AF157159.1.1750;Mucoromycotina;Mucorales;Mucorales;Spinellus;Spinellus;Spinellus fusiger
+141;52111;AF157168.1.1739;Mucoromycotina;Mucorales;Mucorales;Utharomyces;Utharomyces;Utharomyces epallocaulus
+142;52114;AF157152.1.1756;Mucoromycotina;Mucorales;Mucorales;Pilaira;Pilaira;Pilaira anomala
+143;52121;AF113409.1.1765;Mucoromycotina;Mucorales;Mucorales;Absidia;Absidia;Absidia glauca
+144;52246;AF164253.1.1776;Incertae Sedis;Lobulomycetales;Lobulomycetales;Lobulomyces;Lobulomyces;Lobulomyces angularis
+145;52286;AF157153.1.1757;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus umbonatus
+146;52297;AF157160.1.1743;Mucoromycotina;Mucorales;Mucorales;Sporodiniella;Sporodiniella;Sporodiniella umbellata
+147;52308;AF157164.1.1742;Mucoromycotina;Mucorales;Mucorales;Thamnostylum;Thamnostylum;Thamnostylum piriforme
+148;52445;AF277016.1.1822;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium imitatum
+149;52559;AF157127.1.1751;Mucoromycotina;Mucorales;Mucorales;Choanephora;Choanephora;Choanephora cucurbitarum
+150;52811;AF277043.1.1827;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium tipulidarum
+151;52919;AF280632.1.2152;Ascomycota;Sordariomycetes;Hypocreales;;Metarhizium;Metarhizium minus
+152;52944;AF277005.1.1790;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium angustum
+153;52945;AF164247.1.1763;Incertae Sedis;Spizellomycetales;Spizellomycetales;Gaertneriomyces;Gaertneriomyces;Gaertneriomyces semiglobifer
+154;52963;AF277030.1.1913;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium mucronatum
+155;53009;AF277013.1.1761;Kickxellomycotina;Harpellales;Harpellales;Furculomyces boomerangus;Furculomyces;Furculomyces boomerangus
+156;53047;AF277040.1.1827;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium orthocladii
+157;53697;AF113427.1.1728;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor circinelloides f. lusitanicus
+158;53857;AF139732.1.1330;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;Claroideoglomus;Claroideoglomus claroideum
+159;54256;AF277017.1.1825;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium cylindrosporum
+160;54280;AF277046.1.1815;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium simulii
+161;54353;AF157135.1.1735;Mucoromycotina;Mucorales;Mucorales;Fennellomyces;Fennellomyces;Fennellomyces linderi
+162;54418;AF157161.1.1791;Mucoromycotina;Mucorales;Mucorales;Syncephalastrum;Syncephalastrum;Syncephalastrum monosporum var. pluriproliferum
+163;54686;AF296754.1.1741;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus lamprauges
+164;54909;AF277018.1.1826;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium cylindrosporum
+165;54919;AF277014.1.1962;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium morbosum
+166;54946;AF277041.1.2013;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium coloradense
+167;55104;AF277021.1.1828;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium imitatum
+168;55123;AF277035.1.1834;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium commune
+169;55170;AF368513.1.1857;Entomophthoromycotina;Entomophthorales;Entomophthorales;Erynia;Erynia;Erynia conica
+170;55278;AF157125.1.1757;Mucoromycotina;Mucorales;Mucorales;Chaetocladium;Chaetocladium;Chaetocladium brefeldii
+171;55355;AF157142.1.1750;Mucoromycotina;Mucorales;Mucorales;Kirkomyces cordense;Kirkomyces;Kirkomyces cordense
+172;55902;AF368511.1.1780;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus pumilus
+173;56250;AF334914.1.1789;Basidiomycota;Agaricomycetes;Polyporales;;Grifola;Grifola frondosa
+174;56698;AF368512.1.1787;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus rhysosporus
+175;56719;AF368521.1.1852;Entomophthoromycotina;Entomophthorales;Entomophthorales;Pandora;Pandora;Pandora delphacis
+176;56901;AF277031.1.1860;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium caudatum
+177;57030;AF296755.1.1797;Entomophthoromycotina;Entomophthorales;Entomophthorales;Entomophthora;Entomophthora;Entomophthora thripidum
+178;57042;AF368516.1.1858;Entomophthoromycotina;Entomophthorales;Entomophthorales;Entomophthora;Entomophthora;Entomophthora culicis
+179;57392;AF368523.1.1829;Entomophthoromycotina;Basidiobolales;Basidiobolales;Schizangiella;Schizangiella;Schizangiella serpentis
+180;57882;AF368517.1.1863;Entomophthoromycotina;Entomophthorales;Entomophthorales;Eryniopsis;Eryniopsis;Eryniopsis caroliniana
+181;58163;AF368514.1.1846;Entomophthoromycotina;Entomophthorales;Entomophthorales;Erynia;Erynia;Erynia rhizospora
+182;58184;AF368525.1.1844;Entomophthoromycotina;Entomophthorales;Entomophthorales;Zoophthora;Zoophthora;Zoophthora occidentalis
+183;58444;AF277004.1.1828;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium tronadorium
+184;58462;AF277028.1.1864;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium culicisoides
+185;59337;AF368510.1.1847;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus osmodes
+186;59492;AF368524.1.1844;Entomophthoromycotina;Entomophthorales;Entomophthorales;Zoophthora;Zoophthora;Zoophthora anglica
+187;59776;AF368515.1.1853;Entomophthoromycotina;Entomophthorales;Entomophthorales;Erynia;Erynia;Erynia sciarae
+188;59918;AF353723.1.1800;Entomophthoromycotina;Entomophthorales;Entomophthorales;Entomophthora;Entomophthora;Entomophthora planchoniana
+189;60383;AF368506.1.1766;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus brefeldianus
+190;61118;AF480157.1.1779;Glomeromycotina;uncultured;Glomerales;;Glomus;Glomus sp. 5014b24.Llao5
+191;61628;AF351134.1.1810;Entomophthoromycotina;Entomophthorales;Entomophthorales;Furia;Furia;Furia ithacensis
+192;63426;AF368522.1.1850;Entomophthoromycotina;Entomophthorales;Entomophthorales;Pandora;Pandora;Pandora dipterigena
+193;63876;AF007533.1.1838;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia reversa
+194;65180;AB468628.1.1320;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;uncultured;uncultured fungus
+195;65243;AB468671.1.1322;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;uncultured;uncultured fungus
+196;65813;AJ301858.1.1766;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis verruculosum
+197;66329;AJ306441.1.1769;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora sp. WUM18
+198;66853;AJ301859.1.1764;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus irregularis
+199;66865;AJ271061.592.2420;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor racemosus
+200;66990;AJ276092.1.1682;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora aurigloba
+201;67254;AJ306442.1.1770;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora cavernata
+202;67354;AJ306439.1.1768;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora longula
+203;67671;AJ276088.1.1769;Glomeromycotina;Diversisporales;Diversisporales;Diversispora;Diversispora;Diversispora epigaea
+204;67725;AJ242729.1.1757;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora projecturata
+205;68838;AJ301857.1.1765;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomus;Glomus sp. W3347
+206;69287;AJ306440.1.1769;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora sp. W3424
+207;69684;AJ271630.1.1257;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella alpina
+208;69897;AJ306444.1.1757;Glomeromycotina;Diversisporales;Diversisporales;Racocetra;Racocetra;Racocetra weresubiae
+209;70172;AJ271629.1.1257;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella alpina
+210;70253;AJ276084.1.1762;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus clarus
+211;70291;AJ306436.1.1756;Glomeromycotina;Diversisporales;Diversisporales;Cetraspora;Cetraspora;Cetraspora nodosa
+212;70306;AJ301865.1.1767;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Glomus;Glomus sp. WUM3
+213;70379;AJ306434.1.1757;Glomeromycotina;Diversisporales;Diversisporales;Dentiscutata;Dentiscutata;Dentiscutata heterogama
+214;70687;AJ619955.1.1768;Glomeromycotina;Diversisporales;Diversisporales;Pacispora scintillans;Pacispora;Pacispora scintillans
+215;71204;AF157124.1.1797;Mucoromycotina;Mucorales;Mucorales;Blakeslea;Blakeslea;Blakeslea trispora
+216;71241;AJ276093.1.1683;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora aurigloba
+217;71309;AF157151.1.1753;Mucoromycotina;Mucorales;Mucorales;Phycomyces;Phycomyces;Phycomyces blakesleeanus
+218;71347;AF157157.1.1761;Mucoromycotina;Mucorales;Mucorales;Radiomyces spectabilis;Radiomyces;Radiomyces spectabilis
+219;71714;AJ852603.1.1739;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora margarita
+220;71895;AF192506.1.1780;Mucoromycotina;Mucorales;Mucorales;Rhizomucor;Rhizomucor;Rhizomucor miehei
+221;72172;AF277015.1.1816;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium simulii
+222;72193;AF277024.1.1914;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium annulatum
+223;72666;AJ852605.1.1745;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora margarita
+224;72883;AJ699061.1.1793;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomus;Glomus mycorrhizal symbiont of Marchantia foliacea
+225;72904;AJ276090.1.1759;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora sp. W2992
+226;73228;AJ871270.1.1787;Glomeromycotina;Diversisporales;Diversisporales;Dentiscutata;Dentiscutata;Dentiscutata reticulata
+227;73241;AJ852600.1.1772;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora albida
+228;73260;AJ852608.1.1731;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora rosea
+229;73575;AJ430853.1.1680;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomus;Glomus arbuscular mycorrhizal symbiont of Voyria corymbosa
+230;73830;AJ888458.1.1803;Ascomycota;Dothideomycetes;;;Sarcinomyces;Sarcinomyces sp. MA4760
+231;74189;AJ699070.1.1793;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomus;Glomus mycorrhizal symbiont of Marchantia foliacea
+232;74359;AJ619952.1.1767;Glomeromycotina;Diversisporales;Diversisporales;Pacispora scintillans;Pacispora;Pacispora scintillans
+233;75141;AF277026.1.1855;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium dipterorum
+234;75312;AJ430852.1.1685;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomus;Glomus arbuscular mycorrhizal symbiont of Voyriella parviflora
+235;75438;AJ852597.1.1778;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus clarus
+236;76167;AM114274.1.1764;Glomeromycotina;Archaeosporales;Archaeosporales;Archaeospora;Archaeospora;Archaeospora trappei
+237;77156;AF368520.1.1849;Entomophthoromycotina;Entomophthorales;Entomophthorales;Pandora;Pandora;Pandora blunckii
+238;78754;AJ699069.1.1793;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomus;Glomus mycorrhizal symbiont of Marchantia foliacea
+239;79355;AJ852529.1.1741;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomus;Glomus sp. MUCL 43205
+240;79890;AM268192.1.1763;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Ambispora;Ambispora fennica
+241;80358;AM295493.1.1762;Glomeromycotina;Paraglomerales;Paraglomerales;Paraglomus;Paraglomus;Paraglomus laccatum
+242;82767;AM183923.1.1769;Glomeromycotina;Archaeosporales;Archaeosporales;Geosiphon;Geosiphon;Geosiphon pyriformis
+243;83310;AF503564.1.1372;Ascomycota;Dothideomycetes;Mytilinidiales;fungal endophyte MUT 769;fungal;fungal endophyte MUT 769
+244;83687;AM268194.1.1767;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Ambispora;Ambispora fennica
+245;85091;AM418543.1.1677;Glomeromycotina;Diversisporales;Diversisporales;Redeckera;Redeckera;Redeckera fulvum
+246;86108;AF503566.1.1642;Ascomycota;Dothideomycetes;;;fungal;fungal endophyte MUT 771
+247;87903;AM713431.1.1801;Glomeromycotina;Diversisporales;Diversisporales;Diversispora;Diversispora;Diversispora eburnea
+248;88278;AJ133706.1.1672;Glomeromycotina;Glomerales;Glomerales;Sclerocystis;Sclerocystis;Sclerocystis sinuosa
+249;88283;AY032608.1.1766;Incertae Sedis;Chytridiales;Chytridiales;Chytridium;Chytridium;Chytridium polysiphoniae
+250;90016;AY129549.1.1607;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella parvispora
+251;90032;AJ306443.1.1760;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora calospora
+252;91316;AB534351.1.1609;Incertae Sedis;Blastocladiales;Physodermatales;uncultured fungus;uncultured;uncultured fungus
+253;91417;AY123292.1.1757;Basidiomycota;Pucciniomycetes;Platygloeales;Insolibasidium;Insolibasidium;Insolibasidium deformans
+254;92522;AJ852526.1.1819;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+255;92535;AJ852598.1.1796;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;Claroideoglomus;Claroideoglomus etunicatum
+256;93546;AY054697.1.1785;Mucoromycotina;Mucorales;Mucorales;Amylomyces;Amylomyces;Amylomyces rouxii
+257;93562;AY054699.1.1777;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor indicus
+258;93731;AB534502.1.1642;Incertae Sedis;Cladochytriales;Chytridiales;Nowakowskiella;uncultured;uncultured fungus
+259;93748;AB534508.1.1608;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured fungus
+260;94889;HW643968.1.1809;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;unidentified;
+261;94984;AJ852527.1.1716;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus sp. MUCL 43203
+262;95023;AJ852599.1.1762;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora albida
+263;95071;AB546146.1.1722;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+264;95351;AB534485.1.1613;Incertae Sedis;Spizellomycetales;Olpidiales;Olpidium;uncultured;uncultured fungus
+265;96629;AY204604.1.1761;Ascomycota;Sordariomycetes;Hypocreales;;Neonectria;Neonectria lugdunensis
+266;97068;AB555669.1.1723;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+267;97100;AB556916.1.1723;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+268;97647;AY293155.1.1786;Basidiomycota;Agaricomycetes;Cantharellales;;Repetobasidium;Repetobasidium mirificum
+269;97895;AB556923.1.1715;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+270;98149;AB555677.1.1721;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+271;98159;AB555682.1.1718;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+272;98176;AB556919.1.1717;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+273;98740;AY336767.1.1773;Basidiomycota;Agaricomycetes;Polyporales;;Diplomitoporus;Diplomitoporus overholtsii
+274;98988;AB555663.1.1716;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+275;99307;AB555658.1.1716;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+276;100604;AB555674.1.1718;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+277;100638;AB556931.1.1721;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+278;101328;AY502933.1.1879;Ascomycota;Sordariomycetes;Chaetosphaeriales;;Chaetosphaeria;Chaetosphaeria curvispora
+279;101888;AB556930.1.1719;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+280;102043;AB556928.1.1720;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+281;102271;AY541482.1.1731;Ascomycota;Dothideomycetes;Minutisphaerales;;Acrogenospora;Acrogenospora carmichaeliana
+282;102394;AY546685.1.1902;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia reversa
+283;103322;AB555671.1.1718;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+284;104513;KJ563218.1.1771;Incertae Sedis;Blastocladiales;Physodermatales;Paraphysoderma;Paraphysoderma;Paraphysoderma sedebokerense
+285;104780;AY635840.1.1849;Incertae Sedis;Blastocladiales;Blastocladiales;Microallomyces;Microallomyces;Microallomyces dendroideus
+286;104940;AY635825.1.1786;Incertae Sedis;Chytridiales;Chytridiales;Chytridiales sp. JEL187;Chytridiales;Chytridiales sp. JEL187
+287;104990;AY635827.1.1772;Incertae Sedis;Chytridiales;Chytridiales;Dendrochytridium;Dendrochytridium;Dendrochytridium crassum
+288;105510;AY635837.1.1810;Mucoromycotina;Mucorales;Mucorales;Phycomyces;Phycomyces;Phycomyces blakesleeanus
+289;105524;AY635844.1.1742;Incertae Sedis;Cladochytriales;Chytridiales;Nowakowskiella;Endochytrium;Endochytrium sp. JEL 324
+290;105735;AY665774.1.1779;Basidiomycota;Agaricomycetes;Atheliales;;Athelia;Athelia rolfsii
+291;106974;AY635823.1.1745;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;Rhizophydium;Rhizophydium sphaerotheca
+292;107359;AY601708.1.1698;Incertae Sedis;Blastocladiales;Physodermatales;Physoderma;Physoderma;Physoderma maydis
+293;107407;AY635826.1.1783;Incertae Sedis;Chytridiales;Chytridiales;Entophlyctis;Entophlyctis;Entophlyctis helioformis
+294;107420;AY635833.1.1792;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis mosseae
+295;107716;AY635831.1.1774;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+296;108159;AY635822.1.1855;Incertae Sedis;Blastocladiales;Blastocladiales;Catenophlyctis variabilis;Catenophlyctis;Catenophlyctis variabilis
+297;108186;AY743664.1.1817;Mucoromycotina;Mucorales;Mucorales;Ambomucor;Ambomucor;Ambomucor seriatoinflatus
+298;108279;AY657008.1.1772;Basidiomycota;Agaricomycetes;Agaricales;;Clavaria;Clavaria zollingeri
+299;108557;AY635843.1.1814;Mucoromycotina;Mucorales;Mucorales;Cokeromyces;Cokeromyces;Cokeromyces recurvatus
+300;109210;AY635828.1.1771;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella sp. MS-6
+301;109227;AY635835.1.1805;Incertae Sedis;Cladochytriales;Chytridiales;Nowakowskiella;Nowakowskiella;Nowakowskiella elegans
+302;109436;AB594848.1.1263;Glomeromycotina;Glomerales;Glomerales;Sclerocystis;uncultured;uncultured fungus
+303;109956;AB594918.1.1215;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+304;110316;AB594907.1.1332;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+305;111011;AB594901.1.1579;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+306;111357;AB594850.1.1514;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+307;111362;AB594874.1.1361;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+308;111472;AB594884.1.1285;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+309;111534;AY635834.1.1869;Zoopagomycotina;Zoopagales;;Rhopalomyces elegans;Rhopalomyces;Rhopalomyces elegans
+310;112062;AY705958.1.1747;Basidiomycota;Agaricomycetes;Hymenochaetales;;Cotylidia;Cotylidia sp. MB5
+311;112080;AY705966.1.1798;Basidiomycota;Agaricomycetes;Polyporales;;Laetiporus;Laetiporus sulphureus
+312;112324;AB594868.1.1865;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+313;112410;AB594849.1.1643;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+314;112640;AB594900.1.1638;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+315;112859;AB594921.1.1589;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+316;112919;AB594864.1.1355;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+317;112966;AB594916.1.1226;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+318;116643;AB594888.1.1442;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+319;116723;AY293143.1.1737;Basidiomycota;Agaricomycetes;Polyporales;Parmastomyces transmutans;Parmastomyces;Parmastomyces transmutans
+320;118061;AB555670.1.1718;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+321;118076;AB555680.1.1718;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+322;118091;AB556917.1.1722;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+323;121117;KJ668047.1.1698;Incertae Sedis;Monoblepharidales;Monoblepharidales;Harpochytrium;Harpochytrium;Harpochytrium sp. JEL94
+324;121720;AY635824.1.1778;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;Entophlyctis;Entophlyctis sp. JEL174
+325;123443;KJ668053.1.1738;Incertae Sedis;Monoblepharidales;Monoblepharidales;Gonapodya;Gonapodya;Gonapodya polymorpha
+326;123668;KJ668066.1.1785;Incertae Sedis;Monoblepharidales;Monoblepharidales;Monoblepharella;Monoblepharis;Monoblepharis macrandra
+327;124610;KJ708358.1.1574;Basidiomycota;Cystobasidiomycetes;;;Microsporomyces;Microsporomyces orientalis
+328;124928;KJ668052.1.1736;Incertae Sedis;Monoblepharidales;Monoblepharidales;Gonapodya;Gonapodya;Gonapodya polymorpha
+329;125150;KJ668058.1.1785;Incertae Sedis;Monoblepharidales;Monoblepharidales;Monoblepharella;Monoblepharella;Monoblepharella sp. JEL485
+330;125853;KJ668051.1.1773;Incertae Sedis;Monoblepharidales;Monoblepharidales;Harpochytrium;Harpochytrium;Harpochytrium sp. JEL290
+331;126513;AB594869.1.1706;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+332;126514;KJ766736.1.1621;Ascomycota;Lecanoromycetes;Lecanorales;;Lecanora;Lecanora conizaeoides
+333;129289;KJ921771.1.1588;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. T2-e
+334;129429;KJ921776.1.1625;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. H3-e
+335;129484;KJ952238.1.1448;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp. AI98b-4
+336;129505;KJ890360.1.1504;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierellales;Mortierellales sp. AGED
+337;129806;KJ921774.1.1589;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. H1-a
+338;129835;KJ952237.1.1450;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp. AI1-2
+339;129864;KJ921773.1.1619;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. T3-e
+340;129885;KJ952236.1.1450;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp. AI39-1
+341;129945;KJ952241.1.1457;Glomeromycotina;Archaeosporales;Archaeosporales;Archaeospora;Glomeromycotina;Glomeromycotina sp. AI2-3
+342;130167;KJ952215.1.1443;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. Th8b-3
+343;130170;KJ952217.1.1445;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. JD92
+344;130691;KJ668057.1.1777;Incertae Sedis;Monoblepharidales;Monoblepharidales;Gonapodya;Gonapodya;Gonapodya prolifera
+345;130885;KJ952213.1.1443;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. Th6-4
+346;130965;KJ668049.1.1734;Incertae Sedis;Monoblepharidales;Monoblepharidales;Gonapodya;Gonapodya;Gonapodya sp. JEL183
+347;131185;KJ952212.1.1446;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. Th6-2
+348;132234;KJ952218.1.1445;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. WR266-C
+349;132400;KJ952222.1.1451;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp. 8536
+350;132573;KJ708351.1.1592;Basidiomycota;Cystobasidiomycetes;Sakaguchiales;;Sakaguchia;Sakaguchia dacryoidea
+351;133334;KJ952214.1.1445;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. Th8a-4
+352;133335;KJ952229.1.1452;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Glomeromycotina;Glomeromycotina sp. WR856-B
+353;134579;KM594019.1.1735;Mucoromycotina;Endogonales;Endogonales;Endogone;Endogone;Endogone sp. PERTH 7648049
+354;136751;KM211581.1.1685;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. FT2
+355;137319;KM527235.1.1765;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus
+356;137540;KM359779.1.1652;Dikarya Incertae Sedis;Entorrhizales;Entorrhizales;Entorrhiza;Entorrhiza;Entorrhiza parvula
+357;139174;KP115828.1.1619;Ascomycota;Eurotiomycetes;;;Eurotiomycetes;Eurotiomycetes sp. genotype 228
+358;140095;KC215424.1.1419;Mucoromycotina;Endogonales;Endogonales;uncultured;uncultured;uncultured fungus
+359;140352;KM096215.1.1499;Ascomycota;Sordariomycetes;;;Leotiomycetes;Leotiomycetes sp. LF826
+360;140455;KM527239.1.1763;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus oryzae
+361;141169;KM527229.1.1783;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor indicus
+362;141170;KM527238.1.1782;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. rhizopodiformis
+363;141217;KM527234.1.1763;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. rhizopodiformis
+364;142940;KJ952230.1.1451;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp. WR864-A
+365;143637;KM065420.1.1599;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp. 8957-F
+366;144503;KM527233.1.1774;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. chinensis
+367;147023;D29950.1.1830;Kickxellomycotina;Harpellales;Harpellales;Zancudomyces;Zancudomyces;Zancudomyces culisetae
+368;147562;DQ211053.1.1763;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus longipes
+369;148504;DQ367455.1.1441;Kickxellomycotina;Harpellales;Harpellales;Orphella;Orphella;Orphella sp. NS-34-W16
+370;148525;GENC01023620.369.2219;Entomophthoromycotina;Entomophthorales;Entomophthorales;Entomophthora;Entomophthora;Entomophthora muscae
+371;148625;AB695513.1.1752;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;uncultured;uncultured eukaryote
+372;149823;GQ995410.1.1790;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+373;149824;GQ995436.1.1768;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+374;151276;DQ367453.1.1371;Kickxellomycotina;Harpellales;Harpellales;Genistellospora;Genistellospora;Genistellospora homothallica
+375;153313;D29946.1.1743;Entomophthoromycotina;Basidiobolales;Basidiobolales;Basidiobolus;Basidiobolus;Basidiobolus ranarum
+376;153369;D85647.1.1769;Basidiomycota;Agaricomycetes;;;[Rhizoctonia];[Rhizoctonia] zeae
+377;153592;DQ873658.1.1776;Basidiomycota;Agaricomycetes;Hymenochaetales;;Tubulicrinis;Tubulicrinis inornatus
+378;153642;AB695517.1.1752;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured eukaryote
+379;154273;GQ995372.1.1776;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+380;154275;GQ995422.1.1771;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+381;154973;DQ322626.1.1851;Kickxellomycotina;Harpellales;Harpellales;Orphella;Orphella;Orphella haysii
+382;155243;EU428766.1.1725;Mucoromycotina;Mucorales;Mucorales;zygomycete sp. AM-2008a;zygomycete;zygomycete sp. AM-2008a
+383;155411;DQ234562.1.2045;Basidiomycota;Exobasidiomycetes;Entylomatales;;Tilletiopsis;Tilletiopsis sp. CBS 111593
+384;155747;KP121398.1.1384;Mucoromycotina;Mucorales;Mucorales;Amylomyces;Rhizopus;Rhizopus oryzae
+385;155898;DQ367454.1.1394;Kickxellomycotina;Harpellales;Harpellales;Genistelloides;Genistellospora;Genistellospora homothallica
+386;155899;DQ367465.1.1789;Kickxellomycotina;Harpellales;Harpellales;trichomycete sp. CA-9-W10;trichomycete;trichomycete sp. CA-9-W10
+387;156130;DQ322624.1.1463;Incertae Sedis;Spizellomycetales;Olpidiales;Olpidium;Olpidium;Olpidium brassicae
+388;157368;DQ367463.1.1779;Kickxellomycotina;Harpellales;Harpellales;Zygopolaris;Zygopolaris;Zygopolaris ephemeridarum
+389;157467;DQ536475.1.1467;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium decipiens
+390;157468;DQ536487.1.1795;Incertae Sedis;Chytridiales;Chytridiales;Chytriomyces;Chytriomyces;Chytriomyces hyalinus
+391;157721;HQ191296.1.2355;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+392;158553;DQ536472.1.1335;Incertae Sedis;Blastocladiales;Physodermatales;Physoderma;Physoderma;Physoderma dulichii
+393;158556;DQ536485.1.1796;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;Rhizophydium;Rhizophydium sp. JEL316
+394;159746;HQ191313.1.2259;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;uncultured;uncultured Chytridiomycota
+395;160409;DQ363317.1.1577;Dikarya Incertae Sedis;Entorrhizales;Entorrhizales;Entorrhiza;Entorrhiza;Entorrhiza casparyana
+396;160413;DQ367440.1.1435;Kickxellomycotina;Harpellales;Harpellales;Plecopteromyces;Plecopteromyces;Plecopteromyces patagoniensis
+397;160414;DQ367456.1.1400;Kickxellomycotina;Harpellales;Harpellales;Genistelloides;Genistelloides;Genistelloides hibernus
+398;160456;DQ002903.1.1744;Ascomycota;Leotiomycetes;Helotiales;;Pezicula;Pezicula radicicola
+399;161022;GBYF01077849.3105.4886;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora margarita
+400;161037;DQ322627.1.1795;Mucoromycotina;Umbelopsidales;Umbelopsidales;Umbelopsis;Umbelopsis;Umbelopsis ramanniana
+401;161581;EF443134.1.1652;Incertae Sedis;Lobulomycetales;Lobulomycetales;Lobulomyces;Lobulomyces;Lobulomyces poculatus
+402;161934;GQ995378.1.1774;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+403;161939;GQ995426.1.1770;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+404;162016;DQ536476.1.1239;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium sp. DUH0009364
+405;162287;GCRV01001010.66.1927;Entomophthoromycotina;Entomophthorales;Entomophthorales;insect metagenome;insect;insect metagenome
+406;162584;DQ367450.1.1641;Kickxellomycotina;Harpellales;Harpellales;Orphella;Orphella;Orphella cf. hiemalis KS-83-W3
+407;163559;DQ198786.1.1576;Basidiomycota;Pucciniomycetes;Platygloeales;;Platygloea;Platygloea pustulata
+408;163564;DQ211052.1.1764;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus sphaerosporus
+409;163806;KR779279.1.1517;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. 9152.1-D
+410;164256;DQ834916.1.1771;Basidiomycota;Agaricomycetes;Hymenochaetales;;Resinicium;Resinicium saccharicola
+411;164564;GCRV01001009.66.1943;Entomophthoromycotina;Entomophthorales;Entomophthorales;Furia;insect;insect metagenome
+412;165050;EF113984.1.1285;Ascomycota;Leotiomycetes;Leotiales;Satchmopsis brasiliensis;Satchmopsis;Satchmopsis brasiliensis
+413;165480;EF443136.1.1632;Incertae Sedis;Lobulomycetales;Lobulomycetales;Lobulomyces;Lobulomyces;Lobulomyces sp. JEL178
+414;165623;HQ191329.1.2305;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+415;165896;D61381.1.1775;Entomophthoromycotina;Entomophthorales;Entomophthorales;Zoophthora;Zoophthora;Zoophthora radicans
+416;166123;HQ191340.1.2446;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+417;166257;DQ198787.1.1561;Basidiomycota;Pucciniomycetes;Septobasidiales;;Septobasidium;Septobasidium carestianum
+418;166311;DQ234563.1.1788;Basidiomycota;Pucciniomycetes;Platygloeales;Platygloea;Platygloea;Platygloea disciformis
+419;166368;HQ191383.1.2353;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+420;166663;DQ367452.1.1316;Kickxellomycotina;Harpellales;Harpellales;Harpella;Harpella;Harpella melusinae
+421;166780;GQ995271.1.1776;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+422;166871;DQ322623.1.1792;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium macrosporum
+423;166872;DQ322629.1.1787;Glomeromycotina;Paraglomerales;Paraglomerales;Paraglomus;Paraglomus;Paraglomus occultum
+424;167082;DQ367460.1.1800;Kickxellomycotina;Harpellales;Harpellales;Harpella;Harpella;Harpella meridianalis
+425;167158;DQ536481.1.1783;Incertae Sedis;Neocallimastigales;Neocallimastigales;Cyllamyces;Cyllamyces;Cyllamyces aberensis
+426;167272;DQ322622.1.1771;Incertae Sedis;Rhizophydiales;Rhizophydiales;Boothiomyces macroporosum;Boothiomyces;Boothiomyces macroporosum
+427;167273;DQ322628.1.1759;Mucoromycotina;Endogonales;Endogonales;Endogone;Endogone;Endogone pisiformis
+428;167372;GCRV01001012.66.1890;Entomophthoromycotina;Entomophthorales;Entomophthorales;Furia;insect;insect metagenome
+429;167465;DQ367459.1.1813;Kickxellomycotina;Harpellales;Harpellales;Plecopteromyces;Plecopteromyces;Plecopteromyces sp. 39-2-1
+430;167507;GENC01023621.369.2308;Entomophthoromycotina;Entomophthorales;Entomophthorales;Entomophthora;Entomophthora;Entomophthora muscae
+431;167600;DQ520640.1.1778;Zoopagomycotina;Zoopagales;Zoopagales;Cochlonema euryblastum;Cochlonema;Cochlonema euryblastum
+432;167812;DQ536471.1.1770;Mucoromycotina;Endogonales;Endogonales;Endogone;Jimgerdemannia;Jimgerdemannia lactiflua
+433;167813;DQ536483.1.1651;Incertae Sedis;Chytridiales;Chytridiales;Rhizoclosmatium;Chytriomyces;Chytriomyces sp. JEL378
+434;167961;DQ831026.1.1793;Basidiomycota;Agaricomycetes;Auriculariales;;Pseudohydnum;Pseudohydnum gelatinosum
+435;168071;HQ191339.1.2342;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+436;168176;KT362375.1.1703;Incertae Sedis;Chytridiales;Chytridiales;Dendrochytridium;Chytridiaceae;Chytridiaceae sp. PML-2015
+437;168515;GQ995302.1.1780;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+438;170126;EU688965.1.1720;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella indohii
+439;170661;DQ211050.1.1764;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus umbonatus
+440;171465;KR819140.1.1792;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella wolfii
+441;171754;DQ211051.1.1764;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus umbonatus
+442;172398;KT231804.1.1746;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia mojavensis
+443;172575;GQ995423.1.1771;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+444;172576;GQ995433.1.1771;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+445;172823;KJ925303.1.1666;Incertae Sedis;Chytridiales;Chytridiales;uncultured eukaryote;uncultured;uncultured eukaryote
+446;172851;KT582261.1.1675;Mucoromycotina;Mucorales;Mucorales;Absidia;fungal;fungal sp. ZJ14
+447;173071;EU595651.1.1763;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus crystallinus
+448;173082;DQ536480.1.1784;Incertae Sedis;Spizellomycetales;Spizellomycetales;Phlyctochytrium;Phlyctochytrium;Phlyctochytrium arcticum
+449;174262;DQ354556.1.1560;Basidiomycota;Pucciniomycetes;Pucciniales;;Ravenelia;Ravenelia havanensis
+450;174290;DQ416206.1.1738;Basidiomycota;Pucciniomycetes;Platygloeales;Jola;Jola;Jola cf. javensis DJM739
+451;174759;DQ536486.1.1733;Incertae Sedis;Chytridiales;Chytridiales;Chytriomyces;Chytriomyces;Chytriomyces sp. WB 235A
+452;175018;EF033119.1.1770;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora sp. ACAred
+453;175035;GQ995414.1.1770;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+454;175118;EF033122.1.1774;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;Glomus;Glomus sp. NBR PP1
+455;175503;EU847654.1.1408;Mucoromycotina;Mucorales;Mucorales;Absidia;Absidia;Absidia glauca
+456;176164;DQ367444.1.1320;Kickxellomycotina;Harpellales;Harpellales;Plecopteromyces;Plecopteromyces;Plecopteromyces sp. 27-1-5
+457;176165;DQ367515.1.1343;Kickxellomycotina;Harpellales;Harpellales;Pennella;Pennella;Pennella simulii
+458;176324;KM067414.1.1559;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;uncultured;uncultured Rhizophlyctis
+459;176473;GQ995379.1.1779;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+460;176474;GQ995409.1.1781;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+461;176830;DQ367443.1.1629;Kickxellomycotina;Harpellales;Harpellales;Smittium;Austrosmittium;Austrosmittium sp. LCF-27-6
+462;176832;DQ367458.1.1362;Kickxellomycotina;Harpellales;Harpellales;Smittium;Stachylina;Stachylina sp. LCF-22-6
+463;177042;DQ536478.1.1769;Incertae Sedis;Rhizophydiales;Rhizophydiales;Kappamyces;Kappamyces;Kappamyces laurelensis
+464;177313;DQ367441.1.1336;Kickxellomycotina;Harpellales;Harpellales;Harpella;Harpella;Harpella tica
+465;177716;DQ536477.1.1750;Incertae Sedis;Spizellomycetales;Spizellomycetales;Phlyctochytrium;Spizellomycetales;Spizellomycetales sp. JEL355
+466;177717;DQ536489.1.1790;Incertae Sedis;Blastocladiales;Physodermatales;Physoderma;Physoderma;Physoderma maculare
+467;178474;GQ995413.1.1770;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+468;178691;KT800023.1.1352;Ascomycota;Laboulbeniomycetes;Herpomycetales;;Herpomyces;Herpomyces chaetophilus
+469;178701;EU267193.1.1831;Entomophthoromycotina;Entomophthorales;Entomophthorales;Pandora;Pandora;Pandora neoaphidis
+470;178769;EF136886.1.1770;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora sp. ACAred
+471;178983;GQ995264.1.1766;Incertae Sedis;Chytridiales;Chytridiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+472;179101;GQ995385.1.1775;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+473;179103;GQ995412.1.1770;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+474;179139;KM067411.1.1562;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+475;179210;EF432819.1.3579;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;Lobulomycetales;Lobulomycetales sp. AF011
+476;179212;EF443138.1.1621;Incertae Sedis;Lobulomycetales;Lobulomycetales;Clydaea;Clydaea;Clydaea vesicula
+477;180013;DQ367448.1.1508;Kickxellomycotina;Harpellales;Harpellales;Genistelloides;Genistelloides;Genistelloides hibernus
+478;180313;KR779282.1.1508;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. WR330-B
+479;180425;HQ191426.1.2366;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+480;180481;EU863582.1.1733;Ascomycota;Sordariomycetes;Koralionastetales;Pontogeneia microdictyi;Pontogeneia;Pontogeneia microdictyi
+481;180763;DQ367449.1.1604;Kickxellomycotina;Harpellales;Harpellales;Genistelloides;Genistelloides;Genistelloides hibernus
+482;180893;EU595650.1.1761;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus crystallinus
+483;181057;DQ470996.1.2417;Ascomycota;Sordariomycetes;Phomatosporales;Lanspora;Lanspora;Lanspora coronata
+484;181120;FJ009595.1.2044;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+485;181674;EU847655.1.1390;Mucoromycotina;Mucorales;Mucorales;;Cunninghamella;Cunninghamella sp. A18
+486;181763;DQ367447.1.1422;Kickxellomycotina;Harpellales;Harpellales;Bojamyces;Bojamyces;Bojamyces repens
+487;182305;AB971026.1.1483;Incertae Sedis;Chytridiales;Chytridiales;uncultured Chytridiales;uncultured;uncultured Chytridiales
+488;182869;GQ995301.1.1779;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+489;183143;EU595653.1.1764;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus sphaerosporus
+490;183494;EU595652.1.1763;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus crystallinus
+491;183963;EF558776.1.1216;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+492;184844;EU595661.1.1748;Mucoromycotina;Mucorales;Mucorales;Utharomyces;Utharomyces;Utharomyces epallocaulus
+493;185079;GQ995427.1.1772;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+494;185131;KU672728.1.1708;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium microbalum
+495;185177;FJ009672.1.1759;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora calospora
+496;185343;EU595660.1.1748;Mucoromycotina;Mucorales;Mucorales;Utharomyces;Utharomyces;Utharomyces epallocaulus
+497;185410;EF136888.1.1771;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora sp. ACAred
+498;185480;GQ995267.1.1779;Incertae Sedis;Spizellomycetales;Spizellomycetales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+499;185488;GQ995337.1.1775;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+500;185493;GQ995415.1.1766;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+501;185704;EU847658.1.1409;Mucoromycotina;Mucorales;Mucorales;Chlamydoabsidia;Chlamydoabsidia;Chlamydoabsidia padenii
+502;185759;EF396192.1.1895;Kickxellomycotina;Harpellales;Harpellales;;Harpellomyces;Harpellomyces sp. PA-3-1d
+503;185782;HQ219404.1.2275;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+504;185975;EF395945.1.1795;Mucoromycotina;Mucorales;Mucorales;Gongronella;Rhizopus;Rhizopus sp. F6
+505;186338;AB971085.1.1474;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+506;186399;FJ009600.1.2037;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+507;187190;FJ009593.1.2037;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+508;187358;FJ171728.1.1666;Basidiomycota;Agaricomycetes;Lepidostromatales;;Lepidostroma;Lepidostroma calocerum
+509;187490;EF014365.1.1791;Incertae Sedis;Blastocladiales;Blastocladiales;Catenaria anguillulae;Catenaria;Catenaria anguillulae
+510;187565;GQ995268.1.1778;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+511;187915;AB971109.1.1788;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;uncultured;uncultured Rhizophydiales
+512;188371;EF558781.1.1218;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+513;188665;EF014366.1.1821;Incertae Sedis;Blastocladiales;Blastocladiales;Blastocladiella;Blastocladiella;Blastocladiella emersonii
+514;188955;FR750374.1.1765;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus vesiculiferus
+515;189078;FJ866597.1.1709;Mucoromycotina;Mucorales;Mucorales;Gongronella sp. xt-2009;Gongronella;Gongronella sp. xt-2009
+516;189090;EF136918.1.1816;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Glomus;Glomus sp. NBRrmc
+517;189440;EF014364.1.1921;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus
+518;189565;EF396193.1.1868;Kickxellomycotina;Harpellales;Harpellales;Orphella;Orphella;Orphella catalaunica
+519;189584;EF033120.1.1766;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;Glomus;Glomus sp. NBR3.1
+520;189839;HQ219419.1.2398;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+521;190563;KT148633.1.1752;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor irregularis
+522;191185;EF638567.1.1362;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+523;191203;FR750211.1.1765;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+524;191526;EU847660.1.1390;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor sp. A27
+525;192909;GU733369.1.1538;Ascomycota;Leotiomycetes;Thelebolales;Pseudogymnoascus pannorum var. pannorum;Pseudogymnoascus;Pseudogymnoascus pannorum var. pannorum
+526;193329;EF558784.1.1218;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+527;193380;EF558795.1.1219;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+528;194046;KC670515.1.1834;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+529;194494;EU595657.1.1764;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus umbonatus
+530;194602;FN182237.1.1716;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. microsporus
+531;194735;FM212924.1.1643;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora dipurpurescens
+532;195048;FR686942.1.1776;Glomeromycotina;Diversisporales;Diversisporales;Diversispora;Diversispora;Diversispora epigaea
+533;195164;EU847668.1.1394;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella sp. A39
+534;195295;FR773146.1.1763;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus clarus
+535;196007;KC674733.1.1829;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+536;196047;KU359237.1.1514;Ascomycota;Sordariomycetes;Lulworthiales;;Lulworthiaceae;Lulworthiaceae sp. BN1
+537;196249;AB971086.1.1474;Incertae Sedis;Chytridiales;Chytridiales;uncultured;uncultured;uncultured Chytridiomycota
+538;196552;EU595655.1.1764;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus sphaerosporus
+539;196809;FR865459.1.1764;Glomeromycotina;Diversisporales;Diversisporales;Sacculospora;Sacculospora;Sacculospora baltica
+540;197039;AJ506037.1.1563;Incertae Sedis;Chytridiales;Chytridiales;uncultured;uncultured;uncultured rhizosphere chytridiomycete
+541;197491;FJ009622.1.2064;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis geosporum
+542;197943;KY234454.1.1527;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulosporaceae;Acaulosporaceae sp.
+543;198647;L37734.1.3315;Ascomycota;Lecanoromycetes;Lecanorales;;Lecanora;Lecanora dispersa
+544;199041;FJ009670.1.1769;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora mellea
+545;199183;KT736103.1.3394;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor rudolphii
+546;199194;EU595656.1.1763;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus kleinii
+547;199343;EU595658.1.1761;Mucoromycotina;Mucorales;Mucorales;Pilaira;Pilaira;Pilaira anomala
+548;199685;FM212932.1.1642;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora dipurpurescens
+549;200108;FN182235.1.1716;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. chinensis
+550;200146;FN820274.1.1771;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Ambispora;Ambispora granatensis
+551;200193;EU595659.1.1761;Mucoromycotina;Mucorales;Mucorales;Pilaira;Pilaira;Pilaira anomala
+552;201527;FN825900.1.1766;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora brasiliensis
+553;201772;FM212920.1.1644;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora dipurpurescens
+554;201892;FN182238.1.1716;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus
+555;202201;FN600537.1.1740;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomus;Glomus sp. MUCL 43194
+556;202309;FR686944.12.1689;Glomeromycotina;Diversisporales;Diversisporales;Diversispora;Diversispora;Diversispora sp. W2423
+557;202322;FR750222.1.1765;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus irregularis
+558;202328;FR865457.1.1770;Glomeromycotina;Diversisporales;Diversisporales;Sacculospora;Sacculospora;Sacculospora baltica
+559;202594;FR750228.1.1763;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus irregularis
+560;202599;FJ009601.1.2037;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+561;202602;KX537772.1.2310;Ascomycota;Rhopalophora;Sclerococcales;;Rhopalophora;Rhopalophora clavispora
+562;202605;FR865467.1.1772;Glomeromycotina;Diversisporales;Entrophosporales;Entrophospora nevadensis;Entrophospora;Entrophospora nevadensis
+563;202865;EF638581.1.1362;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+564;203198;KC561936.1.1734;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+565;203492;FR686934.1.1769;Glomeromycotina;Diversisporales;Diversisporales;Diversispora;Diversispora;Diversispora sp. W3033
+566;203557;FM212934.1.1638;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora dipurpurescens
+567;203839;AJ506000.1.1564;Incertae Sedis;Chytridiales;Chytridiales;uncultured;uncultured;uncultured rhizosphere chytridiomycete
+568;204054;FN182236.1.1716;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus sp. ATCC 20577
+569;204134;FN820275.1.1761;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Ambispora;Ambispora granatensis
+570;204169;KY234456.1.1521;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus sp. (in: Fungi)
+571;204285;AB971111.1.1475;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;uncultured;uncultured Rhizophydiales
+572;205044;KC671184.1.1829;Mucoromycotina;Mucorales;Mucorales;uncultured;uncultured;uncultured fungus
+573;205050;HF968780.1.1712;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora margarita
+574;205509;FR865463.1.1769;Glomeromycotina;Diversisporales;Diversisporales;Otospora;Otospora;Otospora bareae
+575;205745;FR750212.1.1766;Glomeromycotina;Glomerales;Glomerales;Septoglomus;Septoglomus;Septoglomus constrictum
+576;206158;KC674204.1.1827;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+577;206168;KX999145.1.1631;Ascomycota;Lecanoromycetes;Ostropales;;Cyanodermella;Cyanodermella oleoligni
+578;206343;HQ845295.1.1684;Mucoromycotina;Mucorales;Mucorales;Parasitella;Parasitella;Parasitella parasitica
+579;206493;KY234464.1.1522;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeraceae;Glomeraceae sp.
+580;206505;FN690488.1.1675;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured fungus
+581;206518;KC671706.1.1803;Incertae Sedis;Spizellomycetales;Olpidiales;Olpidium;uncultured;uncultured fungus
+582;207023;KX879066.1.1760;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus proliferus
+583;207115;KC708431.1.1603;Mucoromycotina;Endogonales;Endogonales;uncultured;uncultured;uncultured Mucoromycotina
+584;207130;KY418163.1.1652;Basidiomycota;Agaricomycetes;Polyporales;;Coriolopsis;Coriolopsis byrsina
+585;207428;HM623319.1.1722;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor genevensis
+586;207507;KY628682.1.1613;Ascomycota;Sordariomycetes;Melanosporales;;Olpitrichum;Olpitrichum macrosporum
+587;207655;KY234498.1.1521;Glomeromycotina;uncultured;Glomerales;;Glomeraceae;Glomeraceae sp.
+588;208317;KC708375.1.1622;Glomeromycotina;Archaeosporales;Archaeosporales;uncultured Glomeromycotina;uncultured;uncultured Glomeromycotina
+589;208587;KY934457.1.1260;Zoopagomycotina;Zoopagales;Zoopagales;;Acaulopage;Acaulopage sp.
+590;209014;KY937194.1.3035;Zoopagomycotina;Zoopagales;Zoopagales;Acaulopage dichotoma;Acaulopage;Acaulopage dichotoma
+591;209643;KY234463.1.1519;Glomeromycotina;uncultured;Glomerales;;Glomeraceae;Glomeraceae sp.
+592;210042;HQ202292.1.1760;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora striata
+593;210043;HQ202295.1.1764;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora sp. 1 ML-2011
+594;210156;KC671193.1.1829;Mucoromycotina;Mucorales;Mucorales;uncultured;uncultured;uncultured fungus
+595;210595;EU091830.1.1344;Incertae Sedis;Spizellomycetales;Olpidiales;Olpidium;uncultured;uncultured Banisveld eukaryote
+596;211121;EU847664.1.1414;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor ctenidius
+597;211197;HQ888690.1.1774;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces arbusculus
+598;211198;HQ888706.1.1766;Incertae Sedis;Blastocladiales;Blastocladiales;Catenaria sp. JEL 589;Catenaria;Catenaria sp. JEL 589
+599;211200;HQ901742.1.1667;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;Geranomyces;Geranomyces michiganensis
+600;211259;FR750204.1.1770;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora spinosa
+601;211450;FJ869173.1.1756;Basidiomycota;Agaricomycetes;Auriculariales;;Auricularia;Auricularia polytricha
+602;211880;JF414199.1.1606;Mucoromycotina;Endogonales;Endogonales;Endogone;Endogone;Endogone sp. T32492
+603;211881;JF414223.1.1605;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. MIB 8359
+604;212030;KY931890.1.1482;Ascomycota;Sordariomycetes;Annulatascales;;Torrentispora;Torrentispora fibrosa
+605;212120;JF723687.1.1728;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor fuscus
+606;212121;JF723693.1.1730;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor racemosus
+607;212212;GQ376067.1.1736;Glomeromycotina;Diversisporales;Diversisporales;Dentiscutata;Dentiscutata;Dentiscutata colliculosa
+608;212341;FJ009602.1.2036;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+609;212392;HQ202291.1.1761;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora sp. 1 ML-2011
+610;212398;L37735.1.1692;Ascomycota;Lecanoromycetes;Lecideales;;Porpidia;Porpidia crustulata
+611;212426;KY980184.1.1693;Incertae Sedis;uncultured;Rhizophlyctidales;;Uebelmesseromyces;Uebelmesseromyces harderi
+612;212676;EU847661.1.1386;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella sp. A30
+613;213042;GU187624.1.1710;Basidiomycota;Agaricomycetes;Amylocorticiales;;Serpulomyces;Serpulomyces borealis
+614;213386;KY234455.1.1522;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus sp. (in: Fungi)
+615;213593;LT602999.1.1698;Basidiomycota;Agaricomycetes;Polyporales;;Hyphoderma;Hyphoderma definitum
+616;213625;GU934575.1.1246;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella indohii
+617;213694;KU354789.1.1614;Mortierellomycotina;Mortierellales;;;fungal;fungal sp.
+618;213896;FN690496.1.1689;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured fungus
+619;213900;HF968779.1.1713;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora margarita
+620;214514;FN690494.1.1683;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured fungus
+621;214519;KC671247.1.1836;Mucoromycotina;Mucorales;Mucorales;uncultured;uncultured;uncultured fungus
+622;214732;HM449697.1.1703;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor amphibiorum
+623;214927;FR750224.1.1769;Glomeromycotina;Diversisporales;Diversisporales;Pacispora franciscana;Pacispora;Pacispora franciscana
+624;214946;FR865462.1.1766;Glomeromycotina;Diversisporales;Diversisporales;Sacculospora;Sacculospora;Sacculospora baltica
+625;215020;KC674167.1.1834;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+626;215198;HQ845294.1.1684;Mucoromycotina;Mucorales;Mucorales;Parasitella;Parasitella;Parasitella parasitica
+627;215263;KC674687.1.1790;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+628;215629;EF558786.1.1218;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+629;215778;KY748016.1.1703;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella formicae
+630;215893;HQ202293.1.1759;Glomeromycotina;Diversisporales;Diversisporales;Gigasporaceae sp. ML-2011;Gigasporaceae;Gigasporaceae sp. ML-2011
+631;215925;FN690491.1.1694;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured fungus
+632;216086;KC674564.1.1833;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+633;216451;JQ004921.1.1715;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia interrupta
+634;216867;KC708443.1.1606;Mucoromycotina;Endogonales;Endogonales;Endogone;uncultured;uncultured Mucoromycotina
+635;217573;KY628691.1.1629;Ascomycota;Sordariomycetes;Melanosporales;;Olpitrichum;Olpitrichum sphaerosporum
+636;217623;HQ845298.1.1621;Mucoromycotina;Mucorales;Mucorales;Rhizomucor;Rhizomucor;Rhizomucor pusillus
+637;217999;HM623313.1.1829;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor endophyticus
+638;218052;HQ888695.1.1682;Incertae Sedis;Blastocladiales;Blastocladiales;Blastocladia;Blastocladia;Blastocladia ramosa
+639;218169;JQ302854.1.1784;Kickxellomycotina;Harpellales;Harpellales;Coleopteromyces;Coleopteromyces;Coleopteromyces amnicus
+640;218492;HE610427.1.1770;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora lacunosa
+641;218845;FJ009603.1.2036;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+642;219074;HE863886.1.1727;Glomeromycotina;Diversisporales;Diversisporales;Diversispora;Diversispora;Diversispora sp. EE1
+643;219353;JF723689.1.1749;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor spinosus
+644;220135;FN600538.1.1750;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomus;Glomus sp. MUCL 43194
+645;220239;HQ845297.1.1621;Mucoromycotina;Mucorales;Mucorales;Rhizomucor;Rhizomucor;Rhizomucor pusillus
+646;220288;FN820273.1.1763;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Ambispora;Ambispora granatensis
+647;220345;HQ845296.1.1596;Mucoromycotina;Mucorales;Mucorales;Rhizomucor;Rhizomucor;Rhizomucor pusillus
+648;220459;FN820272.1.1769;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Ambispora;Ambispora granatensis
+649;220460;FN825898.1.1759;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora brasiliensis
+650;220515;KU354756.1.1620;Ascomycota;uncultured;;;fungal;fungal sp.
+651;220556;EF638570.1.1362;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+652;220682;KU500802.1.1225;Mucoromycotina;Mucorales;Mucorales;Amylomyces;Amylomyces;Amylomyces rouxii
+653;220932;JF414222.1.1604;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. MIB 8352
+654;221013;KC674621.1.1835;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+655;221057;FR773150.1.1764;Glomeromycotina;Archaeosporales;Archaeosporales;Archaeospora;Archaeospora;Archaeospora schenckii
+656;221158;EF638601.1.1355;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+657;221497;KC561937.1.1725;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+658;221500;KX537771.1.2198;Ascomycota;Rhopalophora;Sclerococcales;;Rhopalophora;Rhopalophora clavispora
+659;221924;JF730792.1.1690;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;uncultured;uncultured eukaryote
+660;222242;AB971080.1.1477;Incertae Sedis;Neocallimastigales;Neocallimastigales;uncultured;uncultured;uncultured fungus
+661;222538;KY934455.1.1210;Zoopagomycotina;Zoopagales;Zoopagales;Acaulopage dichotoma;Acaulopage;Acaulopage dichotoma
+662;222915;EF558790.1.1217;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured fungus
+663;223056;LC176287.1.1667;Incertae Sedis;uncultured;Zygophlyctidales;;Zygorhizidium;Zygorhizidium aff. melosirae KS-2016
+664;223535;JF414178.1.1619;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Glomeromycotina;Glomeromycotina sp. MIB 8441
+665;223646;HQ202299.1.1763;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora striata
+666;223713;GU004226.1.1519;Ascomycota;Leotiomycetes;Thelebolales;;Thelebolus;Thelebolus sp. 18 BI 15-3-2
+667;223981;JF723684.1.1731;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor racemosus
+668;224114;JF414180.1.1612;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp. MIB 8446
+669;224186;AF372719.1.1262;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+670;224338;AJ867630.1.1746;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+671;225138;GU004255.1.1519;Ascomycota;Dothideomycetes;Pleosporales;;Phoma;Phoma herbarum
+672;225293;LT602997.1.1702;Basidiomycota;Agaricomycetes;Polyporales;;Hyphoderma;Hyphoderma sp. CBS116137
+673;225403;LC203433.1.1643;Basidiomycota;Tremellomycetes;Tremellales;;Sirotrema;Sirotrema translucens
+674;225533;EF638572.1.1365;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+675;225541;FR686955.1.1773;Glomeromycotina;Diversisporales;Diversisporales;Diversispora;Diversispora;Diversispora trimurales
+676;225553;MF196240.1.1646;Basidiomycota;Agaricomycetes;Polyporales;;Phanerochaete;Phanerochaete chrysosporium
+677;225554;JQ004928.1.1712;Mucoromycotina;Mucorales;Mucorales;Absidia;Absidia;Absidia heterospora
+678;225674;HQ682649.1.1763;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus kleinii
+679;225973;AY382451.1.1436;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured fungus
+680;226745;HQ888708.1.1653;Incertae Sedis;Blastocladiales;Blastocladiales;Catenaria sp. Poly Ad 2-0;Catenaria;Catenaria sp. Poly Ad 2-0
+681;226770;HE863866.1.1726;Glomeromycotina;Diversisporales;Diversisporales;Diversispora;Diversispora;Diversispora sp. EE1
+682;226851;HQ845293.1.1679;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor circinelloides
+683;227005;FN690493.1.1679;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured fungus
+684;227062;EU154975.1.1267;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;uncultured;uncultured fungus
+685;227095;EU162636.1.1786;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+686;227096;EU162640.1.1784;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+687;227151;HQ888683.1.1770;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces arbusculus
+688;227655;JF414224.1.1609;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. MIB 8387
+689;227784;AY394664.1.1581;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;uncultured;uncultured Acaulospora
+690;227839;MF163176.1.1416;Incertae Sedis;Neocallimastigales;Neocallimastigales;uncultured;Rhizophydium;Rhizophydium scenedesmi
+691;227852;HQ888705.1.1776;Incertae Sedis;Blastocladiales;Blastocladiales;Catenaria sp. WM099;Catenaria;Catenaria sp. WM099
+692;227928;JF723672.1.1747;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor racemosus
+693;227930;JF723688.1.1733;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor circinelloides f. janssenii
+694;227951;AY180029.1.1707;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured fungus
+695;228762;JF414192.1.1613;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp. MIB 8369
+696;228763;JF414221.1.1609;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. MIB 8388
+697;228945;JX155619.1.1505;Kickxellomycotina;Harpellales;Harpellales;Bojamyces sp. CA-18-W17;Bojamyces;Bojamyces sp. CA-18-W17
+698;229381;FJ605511.1.1791;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor luteus
+699;229477;HM623315.1.1795;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor irregularis
+700;229491;JN009796.1.1676;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia pectinata
+701;229568;LT603005.1.2285;Basidiomycota;Agaricomycetes;Polyporales;;Hyphoderma;Hyphoderma orphanellum
+702;229759;JX242624.1.1762;Entomophthoromycotina;Entomophthorales;Entomophthorales;Zoophthora;Zoophthora;Zoophthora radicans
+703;229858;KC671227.1.1841;Mucoromycotina;Mucorales;Mucorales;uncultured;uncultured;uncultured fungus
+704;230057;LT603000.1.1704;Basidiomycota;Agaricomycetes;Hymenochaetales;;Peniophorella;Peniophorella guttuliferum
+705;230208;KY628698.1.1629;Ascomycota;Sordariomycetes;Melanosporales;;Sphaerodes;Sphaerodes quandrangularis
+706;230784;JF414210.1.1610;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. MIB 8372
+707;230785;JF414234.1.1605;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. MIB 8349
+708;230907;HM623317.1.1777;Mucoromycotina;Mucorales;Mucorales;Rhizomucor;Rhizomucor;Rhizomucor regularior
+709;230992;KY947995.1.1687;Ascomycota;Lecanoromycetes;Umbilicariales;;Umbilicaria;Umbilicaria vellea
+710;231060;JN166015.1.1290;Ascomycota;Sordariomycetes;Xylariales;;Vialaea;Vialaea insculpta
+711;231821;EU169426.1.1257;Glomeromycotina;Glomerales;Glomerales;Septoglomus;uncultured;uncultured Glomus
+712;231851;FN182239.1.1716;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus microsporus var. chinensis
+713;232001;HQ888704.1.1763;Incertae Sedis;Blastocladiales;Blastocladiales;Catenaria anguillulae;Catenaria;Catenaria anguillulae
+714;232044;KC561942.1.1736;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured Chytridiomycota
+715;232173;EF638571.1.1381;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+716;232176;EF638681.1.1362;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+717;232195;FR686954.1.1768;Glomeromycotina;Diversisporales;Diversisporales;Diversispora;Diversispora;Diversispora spurca
+718;232372;JQ004925.1.1715;Mucoromycotina;Mucorales;Mucorales;Absidia;Absidia;Absidia glauca
+719;232439;HM623321.1.1778;Mucoromycotina;Mucorales;Mucorales;Backusella;Backusella;Backusella variabilis
+720;232480;KY934456.1.1310;Zoopagomycotina;Zoopagales;Zoopagales;Stylopage araea;Stylopage;Stylopage araea
+721;232499;FR773151.1.1750;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;Claroideoglomus;Claroideoglomus lamellosum
+722;232760;JF414188.1.1613;Glomeromycotina;Archaeosporales;Archaeosporales;Ambispora;Glomeromycotina;Glomeromycotina sp. MIB 8371
+723;232852;JQ004924.1.1717;Kickxellomycotina;Kickxellales;Kickxellales;Linderina;Linderina;Linderina macrospora
+724;232929;JF723652.1.1747;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor circinelloides f. circinelloides
+725;232931;JF723686.1.1728;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor circinelloides f. griseocyanus
+726;232975;FJ654487.1.1337;Mucoromycotina;Mucorales;Mucorales;Gongronella;Rhizopus;Rhizopus sp. SV/09-13
+727;233223;JQ080259.1.1774;Glomeromycotina;Diversisporales;Diversisporales;Racocetra;Racocetra;Racocetra alborosea
+728;233306;LT603010.1.1710;Basidiomycota;Agaricomycetes;Corticiales;;Hyphodontia;Hyphodontia sambuci
+729;234399;KY234410.1.1520;Glomeromycotina;uncultured;Glomerales;;Glomeraceae;Glomeraceae sp.
+730;234434;MF458359.1.1708;Ascomycota;Laboulbeniomycetes;Herpomycetales;;Herpomyces;Herpomyces periplanetae
+731;234683;EU169428.1.1211;Glomeromycotina;Glomerales;Glomerales;Septoglomus;uncultured;uncultured Glomus
+732;234885;FN600536.1.1769;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomus;Glomus sp. MUCL 43194
+733;234941;HE962469.1.1757;Glomeromycotina;Diversisporales;Diversisporales;Dentiscutata;Dentiscutata;Dentiscutata savannicola
+734;235137;JQ302882.1.1808;Kickxellomycotina;Harpellales;Harpellales;Pseudoharpella arcolamylica;Pseudoharpella;Pseudoharpella arcolamylica
+735;235177;HQ888713.1.1755;Incertae Sedis;Blastocladiales;Blastocladiales;Coelomomyces lativittatus;Coelomomyces;Coelomomyces lativittatus
+736;235462;EF638577.1.1366;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+737;235538;AJ867631.1.1748;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+738;235641;MF398174.1.1725;Ascomycota;Sordariomycetes;;;Sordariomycetes;Sordariomycetes sp.
+739;235777;JF723635.1.1704;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor fuscus
+740;235787;JF723685.1.1733;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor racemosus
+741;236006;JF414185.1.1613;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp. MIB 8393
+742;236428;KC674216.1.1832;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+743;236569;JX155622.1.1505;Kickxellomycotina;Harpellales;Harpellales;Legeriomyces;Legeriomyces;Legeriomyces minae
+744;236766;FN600535.1.1761;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomus;Glomus sp. MUCL 43194
+745;236841;LK023322.270.2102;Mucoromycotina;Mucorales;Mucorales;Lichtheimia;Lichtheimia;Lichtheimia ramosa
+746;237282;EF638574.1.1364;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+747;237346;JQ004930.1.1710;Mucoromycotina;Mucorales;Mucorales;Absidia;Absidia;Absidia repens
+748;237699;KY234470.1.1519;Glomeromycotina;uncultured;Glomerales;;Glomeraceae;Glomeraceae sp.
+749;237865;KC674701.1.1832;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+750;238431;JF723683.1.1705;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor circinelloides f. lusitanicus
+751;238690;KY661701.1.1758;Ascomycota;Lecanoromycetes;Ostropales;;Cryptodiscus;Cryptodiscus galaninae
+752;238797;KY948010.1.2198;Ascomycota;Lecanoromycetes;Pertusariales;;Pertusaria;Pertusaria alpina
+753;238977;EU162641.1.1783;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+754;239316;KC708441.1.1550;Mucoromycotina;Endogonales;Endogonales;Endogone;uncultured;uncultured Mucoromycotina
+755;239987;KC674123.1.1837;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+756;240272;HQ324138.1.1276;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium minutum
+757;240275;KY828439.1.1559;Ascomycota;Lecanoromycetes;Leotiales;;Epithamnolia;Epithamnolia rangiferinae
+758;240279;HM590653.1.1750;Mucoromycotina;Mucorales;Mucorales;Lichtheimia;Absidia;Absidia sp. MJ3-3
+759;240345;M59759.1.1718;Incertae Sedis;Spizellomycetales;Spizellomycetales;Spizellomyces;Spizellomyces;Spizellomyces acuminatus
+760;240505;KC674737.1.1829;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+761;240972;JQ302890.1.1860;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium tronadorium
+762;241013;JF414184.1.1613;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp. MIB 8393
+763;241179;JF723691.1.1735;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor sp. AH-2011e
+764;241427;JX155612.1.1505;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium sp. YW-2013
+765;241645;JQ043221.1.1629;Mucoromycotina;Mucorales;Mucorales;Thamnostylum;Thamnostylum;Thamnostylum repens
+766;241663;JQ995175.1.1777;Zoopagomycotina;Zoopagales;Zoopagales;Piptocephalis;Piptocephalis;Piptocephalis graefenhanii
+767;241974;KC297614.1.1811;Kickxellomycotina;Harpellales;Harpellales;Barbatospora;Barbatospora;Barbatospora ambicaudata
+768;242069;JX242622.1.1765;Entomophthoromycotina;Entomophthorales;Entomophthorales;Pandora;Pandora;Pandora kondoiensis
+769;242167;HQ263116.1.1708;Ascomycota;Sordariomycetes;Coniochaetales;;Coniochaeta;Coniochaeta mutabilis
+770;242322;EU169413.1.1245;Glomeromycotina;Glomerales;Glomerales;Septoglomus;uncultured;uncultured Glomus
+771;242561;JQ288098.1.1762;Zoopagomycotina;Zoopagales;Zoopagales;Acaulopage tetraceros;Acaulopage;Acaulopage tetraceros
+772;242623;JQ995176.1.1782;Zoopagomycotina;Zoopagales;Zoopagales;Piptocephalis;Piptocephalis;Piptocephalis indica
+773;243120;JQ302867.1.1755;Kickxellomycotina;Harpellales;Harpellales;Graminella;Graminella;Graminella microspora
+774;243302;MG829290.1.1577;Glomeromycotina;Diversisporales;;;Glomeromycotina;Glomeromycotina sp.
+775;243303;MG829324.1.1650;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+776;243304;MG829362.1.1652;Glomeromycotina;Glomerales;;;Glomeromycotina;Glomeromycotina sp.
+777;243305;MG829424.1.1657;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+778;243308;MG829506.1.1657;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Glomeromycotina;Glomeromycotina sp.
+779;243328;JQ689416.1.1679;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+780;243524;HQ845299.1.1687;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor irregularis
+781;243820;EU169421.1.1251;Glomeromycotina;Glomerales;Glomerales;Septoglomus;uncultured;uncultured Glomus
+782;243871;AEVJ01000659.12089.13867;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella verticillata NRRL 6337
+783;244298;KF036721.1.1656;Basidiomycota;Tremellomycetes;Trichosporonales;;Apiotrichum;Apiotrichum sporotrichoides
+784;244319;JX242608.1.1664;Entomophthoromycotina;Basidiobolales;Basidiobolales;Basidiobolus;Basidiobolus;Basidiobolus magnus
+785;244353;HQ888717.1.1639;Incertae Sedis;Blastocladiales;Physodermatales;Urophlyctis;Urophlyctis;Urophlyctis trifolii
+786;244371;JQ302844.1.1794;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium sp. AS-49-6
+787;244743;JX155620.1.1502;Kickxellomycotina;Harpellales;Harpellales;Caudomyces sp. UT-1-W16a;Caudomyces;Caudomyces sp. UT-1-W16a
+788;244774;JQ302869.1.1902;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium coloradense
+789;244803;JX155621.1.1505;Kickxellomycotina;Harpellales;Harpellales;Harpella;Harpella;Harpella melusinae
+790;245190;GU250316.1.1781;Ascomycota;Dothideomycetes;;;Cryomyces;Cryomyces antarcticus
+791;245206;HQ901738.1.1663;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;Geranomyces;Geranomyces tanneri
+792;245247;KY234404.1.1522;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus sp. (in: Fungi)
+793;245321;ABKH02000595.2974.4216;Ascomycota;Eurotiomycetes;Onygenales;;Paracoccidioides;Paracoccidioides lutzii Pb01
+794;245529;JF414187.1.1612;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp. MIB 8366
+795;245573;FJ641899.1.1357;Basidiomycota;Agaricomycetes;Sebacinales;;Serendipita;Serendipita indica
+796;245809;KC671259.1.1838;Mucoromycotina;Mucorales;Mucorales;uncultured;uncultured;uncultured fungus
+797;246021;JF414191.1.1611;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp. MIB 8392
+798;246023;JF414214.1.1605;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. MIB 8353
+799;246388;JF723692.1.1738;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor spinosus
+800;246421;HE573028.222.1687;Basidiomycota;Agaricomycetes;Hymenochaetales;;Kurtia;Kurtia argillacea
+801;246810;JX242609.1.1673;Entomophthoromycotina;Basidiobolales;Basidiobolales;Basidiobolus;Basidiobolus;Basidiobolus meristosporus
+802;247004;JQ302868.1.1753;Kickxellomycotina;Harpellales;Harpellales;Spartiella;Spartiella;Spartiella cf. barbata NOR-43-1
+803;247499;KC671213.1.1834;Mucoromycotina;Mucorales;Mucorales;uncultured;uncultured;uncultured fungus
+804;247816;HM030909.1.1651;Incertae Sedis;Spizellomycetales;Olpidiales;Olpidium;uncultured;uncultured eukaryote
+805;247852;HQ888696.1.1686;Incertae Sedis;Blastocladiales;Blastocladiales;Blastocladia;Blastocladia;Blastocladia pringsheimii
+806;248119;FN600534.1.1823;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomus;Glomus sp. MUCL 43194
+807;248182;JF414176.1.1612;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp. MIB 8383
+808;248375;EF638573.1.1362;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+809;248677;JX155611.1.1505;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium fecundum
+810;249077;JF414211.1.1608;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. MIB 8448
+811;249089;JX242619.1.1483;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus obscurus
+812;249339;EU162643.1.1784;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+813;250166;AY903703.1.1525;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+814;250277;JN397378.1.1769;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor hiemalis
+815;250283;EU154985.1.1261;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured fungus
+816;250647;HM536084.1.1703;Basidiomycota;Agaricomycetes;Gloeophyllales;;Veluticeps;Veluticeps fimbriata
+817;250778;JX155623.1.1505;Kickxellomycotina;Harpellales;Harpellales;Pteromaktron;Pteromaktron;Pteromaktron sp. OR-11-W8
+818;251151;KC203496.1.1773;Basidiomycota;Agaricomycetes;Stereopsidales;;Stereopsis;Stereopsis radicans
+819;251397;KR002150.1.1740;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomeromycotina
+820;251725;HQ585897.1.1775;Incertae Sedis;Neocallimastigales;Neocallimastigales;Neocallimastix;Neocallimastix;Neocallimastix frontalis
+821;251862;JQ043222.1.1628;Mucoromycotina;Mucorales;Mucorales;Thamnostylum;Thamnostylum;Thamnostylum nigricans
+822;252182;LDAW01001190.1319.3196;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella alpina
+823;252256;KF805742.1.1751;Mucoromycotina;Mucorales;Mucorales;Circinella;Circinella;Circinella umbellata
+824;252495;JQ995172.1.1777;Zoopagomycotina;Zoopagales;Zoopagales;Piptocephalis;Piptocephalis;Piptocephalis formosana
+825;252589;MG252955.1.1741;Entomophthoromycotina;Entomophthorales;Entomophthorales;Zoophthora;Zoophthora;Zoophthora radicans
+826;252749;MG829335.1.1655;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+827;252750;MG829370.1.1654;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+828;252757;MG829587.1.1644;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+829;252869;JQ043223.1.1631;Mucoromycotina;Mucorales;Mucorales;Thamnostylum;Thamnostylum;Thamnostylum lucknowense
+830;253672;EU169415.1.1245;Glomeromycotina;Glomerales;Glomerales;Septoglomus;uncultured;uncultured Glomus
+831;253715;AY903741.1.1526;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+832;254196;JN974022.1.1792;Mucoromycotina;Mucorales;Mucorales;Rhizopus;Rhizopus;Rhizopus stolonifer
+833;254498;KF036662.1.1654;Basidiomycota;Tremellomycetes;Holtermanniales;;Holtermanniella;Holtermanniella wattica
+834;254528;MF522179.1.1715;Mucoromycotina;Mucorales;Mucorales;Absidia;Absidia;Absidia panacisoli
+835;254577;KC297628.1.1742;Kickxellomycotina;Harpellales;Harpellales;Pennella sp. NOR-7-W12;Pennella;Pennella sp. NOR-7-W12
+836;254902;MG829322.1.1651;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+837;254903;MG829361.1.1618;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+838;254904;MG829419.1.1655;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+839;254906;MG829487.1.1648;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+840;254928;JQ689413.1.1659;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured Chytridiomycota
+841;255511;KC708360.1.1682;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp. MIB 8870
+842;255740;KC561971.1.1722;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+843;255759;MG829294.1.1653;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+844;255760;MG829398.1.1620;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+845;255784;JQ689445.1.1662;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+846;255819;JX242607.1.1719;Entomophthoromycotina;Basidiobolales;Basidiobolales;Basidiobolus;Basidiobolus;Basidiobolus heterosporus
+847;255940;AY821992.1.1670;Incertae Sedis;Blastocladiales;Blastocladiales;Blastocladia;uncultured;uncultured Chytridiomycota
+848;255963;JQ302870.1.1839;Kickxellomycotina;Harpellales;Harpellales;Stachylina;Stachylina;Stachylina lentica
+849;256420;JQ301644.1.1621;Ascomycota;Lecanoromycetes;Caliciales;;Buellia;Buellia dispersa
+850;256421;JQ302852.1.1773;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium sp. CO-13-W13
+851;256454;JQ004937.1.1733;Mucoromycotina;Mucorales;Mucorales;Pilobolus;Pilobolus;Pilobolus roridus
+852;256579;AY821995.1.1675;Incertae Sedis;Blastocladiales;Blastocladiales;Blastocladia;uncultured;uncultured Chytridiomycota
+853;256794;AY882540.1.1214;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured marine eukaryote
+854;256822;AJ506018.1.1560;Incertae Sedis;Chytridiales;Chytridiales;uncultured;uncultured;uncultured rhizosphere chytridiomycete
+855;257471;JQ302895.1.1855;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium cf. morbosum WKRb
+856;257766;HQ888688.1.1762;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces moniliformis
+857;257857;KC297624.1.1737;Kickxellomycotina;Harpellales;Harpellales;Legerioides;Legerioides;Legerioides tumidus
+858;257930;KC297619.1.1737;Kickxellomycotina;Harpellales;Harpellales;Capniomyces;Capniomyces;Capniomyces sasquatchoides
+859;258091;EU417625.1.1685;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+860;259093;KY234474.1.1521;Glomeromycotina;uncultured;Glomerales;;Rhizophagus;Rhizophagus sp. (in: Fungi)
+861;259183;JF414213.1.1608;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. MIB 8447
+862;259454;JF723690.1.1712;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor fuscus
+863;259591;MG829326.1.1284;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+864;259593;MG829429.1.1644;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+865;259598;MG829537.1.1639;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+866;259755;KC670541.1.1809;Incertae Sedis;Rhizophlyctidales;Rhizophlyctidales;Rhizophlyctis;uncultured;uncultured fungus
+867;259843;MG829329.1.1654;Glomeromycotina;Diversisporales;;;Glomeromycotina;Glomeromycotina sp.
+868;259847;MG829366.1.1659;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Glomeromycotina;Glomeromycotina sp.
+869;259850;MG829430.1.1654;Glomeromycotina;Glomerales;Glomerales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+870;259864;MG829551.1.1665;Glomeromycotina;Diversisporales;;;Glomeromycotina;Glomeromycotina sp.
+871;260283;JX242612.1.1678;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus firmipilleus
+872;261536;JF972676.1.1641;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured eukaryote
+873;261651;KF056849.1.1577;Mucoromycotina;Mucorales;Mucorales;;Mucoraceae;Mucoraceae sp. SM-1
+874;261900;KF053133.1.1569;Mortierellomycotina;Mortierellales;Mortierellales;Modicella malleola;Modicella;Modicella malleola
+875;262019;KC674649.1.1832;Mucoromycotina;Mucorales;Mucorales;Mucor;uncultured;uncultured fungus
+876;262173;JQ302863.1.1993;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium sp. CO-13-W10
+877;262175;JQ302891.1.1855;Kickxellomycotina;Harpellales;Harpellales;Smittium sp. CR-259-4;Smittium;Smittium sp. CR-259-4
+878;262352;MG829296.1.1656;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+879;262353;MG829402.1.1546;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+880;262359;MG829575.1.1651;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+881;262645;MF478999.1.1671;Mucoromycotina;Endogonales;Endogonales;Endogone;Endogone;Endogone sp.
+882;264039;HQ888697.1.1750;Incertae Sedis;Blastocladiales;Blastocladiales;Blastocladiella;Blastocladiella;Blastocladiella sp. JEL 440
+883;264137;KF160864.1.1243;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium aureum
+884;264244;AY903705.1.1532;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+885;264798;KF412632.1.1223;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora margarita
+886;264894;L20824.1.1639;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus vesiculiferus
+887;265142;EU417646.1.1686;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+888;265271;KC297625.1.1743;Kickxellomycotina;Harpellales;Harpellales;Legeriosimilis sp. CA-10-W15;Legeriosimilis;Legeriosimilis sp. CA-10-W15
+889;265425;MG829320.1.1657;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+890;265427;MG829359.1.1648;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+891;265436;MG829532.1.1653;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+892;265441;MG829581.1.1654;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+893;265730;JQ995173.1.1772;Zoopagomycotina;Zoopagales;Zoopagales;Piptocephalis;Piptocephalis;Piptocephalis lepidula
+894;265755;KF805738.1.1728;Mucoromycotina;Mucorales;Mucorales;Circinella;Circinella;Circinella muscae
+895;266353;HQ888699.1.1785;Incertae Sedis;Blastocladiales;Blastocladiales;Blastocladiella;Blastocladiella;Blastocladiella britannica
+896;266355;HQ901762.1.1768;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;Geranomyces;Geranomyces hawaiiensis
+897;267340;JF723664.1.1753;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor brunneogriseus
+898;267405;MG829339.1.1518;Glomeromycotina;uncultured;;;Glomeromycotina;Glomeromycotina sp.
+899;267406;MG829377.1.1659;Glomeromycotina;Diversisporales;;;Glomeromycotina;Glomeromycotina sp.
+900;267408;MG829474.1.1652;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+901;267409;MG829491.1.1656;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+902;267411;MG829552.1.1669;Glomeromycotina;Diversisporales;;;Glomeromycotina;Glomeromycotina sp.
+903;267462;JN020241.1.1647;Incertae Sedis;Spizellomycetales;Olpidiales;Olpidium;uncultured;uncultured Chytridiomycota
+904;267569;JQ995174.1.1781;Zoopagomycotina;Zoopagales;Zoopagales;Piptocephalis;Piptocephalis;Piptocephalis xenophila
+905;268336;U96143.1.1330;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis mosseae
+906;268539;KF160876.1.1247;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium perforatum
+907;270367;DQ336444.1.1235;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+908;270368;DQ336498.1.1236;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+909;270710;EU417583.1.1686;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+910;272538;MG252616.2646.5955;Ascomycota;Lecanoromycetes;Pertusariales;;Pertusaria;Pertusaria subpertusa
+911;272847;MG829298.1.1656;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+912;272855;MG829403.1.1659;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Glomeromycotina;Glomeromycotina sp.
+913;272890;EU162638.1.1788;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+914;273518;AY903717.1.1521;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+915;273755;JN940698.1.1872;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium mucronatum
+916;273878;KC503963.1.1774;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia umbellata
+917;274161;KC708426.1.1604;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. MIB 8860
+918;274445;KF805734.1.1742;Mucoromycotina;Mucorales;Mucorales;Circinella;Circinella;Circinella minor
+919;274626;KC297623.1.1800;Kickxellomycotina;Harpellales;Harpellales;Lancisporomyces;Lancisporomyces;Lancisporomyces vernalis
+920;274881;EU169405.1.1226;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+921;274962;MG829486.1.1655;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+922;274972;MG829546.1.1652;Glomeromycotina;uncultured;;;Glomeromycotina;Glomeromycotina sp.
+923;274975;MG829567.1.1654;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+924;275000;MG845403.1.1756;Kickxellomycotina;Harpellales;Harpellales;Orphella;Orphella;Orphella pseudohiemalis
+925;275002;JQ689406.1.1679;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+926;275184;MH125204.1.1799;Basidiomycota;Cystobasidiomycetes;Cystobasidiales;;Cystobasidium;Cystobasidium sp.
+927;275224;KF160866.1.1241;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium collapsum
+928;275564;KC708361.1.1678;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp. MIB 8875
+929;275974;MG829302.1.1660;Glomeromycotina;Glomerales;Glomerales;Septoglomus;Glomeromycotina;Glomeromycotina sp.
+930;275977;MG829406.1.1651;Glomeromycotina;uncultured;;;Glomeromycotina;Glomeromycotina sp.
+931;276050;JN940696.1.1792;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium orthocladii
+932;276944;KC708346.1.1666;Glomeromycotina;uncultured;;;Glomeromycotina;Glomeromycotina sp. MIB 8531
+933;276995;U96144.1.1324;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis mosseae
+934;277238;JX242618.1.1731;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus thromboides
+935;277746;MG829463.1.1653;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+936;278444;KF160871.3777.5555;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium endobioticum
+937;278627;KF160874.1.1236;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium fulgens
+938;279008;AY642706.1.1401;Incertae Sedis;Rhizophydiales;Rhizophydiales;eukaryotic picoplankton environmental sample;eukaryotic;eukaryotic picoplankton environmental sample
+939;279242;JX242617.1.1731;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Entomophaga;Entomophaga destruens
+940;279618;KF688592.1.1636;Incertae Sedis;Neocallimastigales;Neocallimastigales;Cyllamyces;fungal;fungal sp. Tianzhu-Yak19
+941;280486;KF160860.1.1230;Incertae Sedis;Rhizophydiales;Rhizophydiales;Rhizophydium;Rhizophydium;Rhizophydium patellarium
+942;283058;JX155624.1.1505;Kickxellomycotina;Harpellales;Harpellales;Harpellales sp. ALG-10-W3;Harpellales;Harpellales sp. ALG-10-W3
+943;283203;GU568149.1.1579;Mucoromycotina;Endogonales;Endogonales;Endogone;uncultured;uncultured fungus
+944;283347;KC708419.1.1610;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. MIB 8827
+945;283817;MG829485.1.1318;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+946;283843;MG829576.1.1655;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+947;284301;KF711853.1.1906;Incertae Sedis;Cladochytriales;Cladochytriales;Cladochytrium;Cladochytrium;Cladochytrium polystomum
+948;284416;DQ336481.1.1237;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+949;284688;JQ302865.1.1812;Kickxellomycotina;Harpellales;Harpellales;Lancisporomyces;Lancisporomyces;Lancisporomyces falcatus
+950;284855;X89436.1.1719;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella polycephala
+951;284861;Y17633.1.1768;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Acaulospora;Acaulospora laevis
+952;285805;JX099061.1.1744;Incertae Sedis;Spizellomycetales;Spizellomycetales;uncultured eukaryote;uncultured;uncultured eukaryote
+953;285922;MG907204.1.1430;Basidiomycota;Pucciniomycetes;Pucciniales;;Ravenelia;Ravenelia acaciae-pennatulae
+954;286503;HQ888698.1.1717;Incertae Sedis;Blastocladiales;Blastocladiales;Blastocladiella;Blastocladiella;Blastocladiella sp. JEL 363
+955;286931;KF160867.1.1241;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium cupulatum
+956;286967;Y17504.1.1796;Incertae Sedis;Monoblepharidales;;Hyaloraphidium curvatum;Hyaloraphidium;Hyaloraphidium curvatum
+957;288042;EU417648.1.1686;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+958;288128;AY903726.1.1518;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+959;291582;MH633704.1.1770;Basidiomycota;Pucciniomycetes;Pucciniales;;Hemileia;Hemileia vastatrix
+960;292217;DQ336499.1.1235;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+961;292394;KC708353.1.1677;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Glomeromycotina;Glomeromycotina sp. MIB 8848
+962;293226;GU568132.1.1566;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured fungus
+963;293227;GU568150.1.1561;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured fungus
+964;293453;MG829279.1.1648;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+965;293464;MG829396.1.1664;Glomeromycotina;Diversisporales;;;Glomeromycotina;Glomeromycotina sp.
+966;293475;MG829574.1.1645;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+967;293478;MG829601.1.1644;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+968;294370;KF805736.1.1737;Mucoromycotina;Mucorales;Mucorales;Circinella;Circinella;Circinella muscae
+969;295831;JX099117.1.1750;Incertae Sedis;Spizellomycetales;Spizellomycetales;uncultured eukaryote;uncultured;uncultured eukaryote
+970;296058;AY903728.1.1515;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+971;296223;Z14012.1.1698;Glomeromycotina;Diversisporales;Diversisporales;Cetraspora;Cetraspora;Cetraspora pellucida
+972;298290;KC203489.1.3614;Basidiomycota;Agaricomycetes;Stereopsidales;;Stereopsis;Stereopsis globosa
+973;298341;KC286512.1.1700;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia pennisetoides
+974;298354;KC297626.1.1736;Kickxellomycotina;Harpellales;Harpellales;Legeriomyces sp. PEI-X-4;Legeriomyces;Legeriomyces sp. PEI-X-4
+975;298404;X89434.1.1755;Mucoromycotina;Mucorales;Mucorales;Mucor;Mucor;Mucor mucedo
+976;298562;EU162637.1.1770;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured Chytridiomycota
+977;298828;KF805740.1.1754;Mucoromycotina;Mucorales;Mucorales;;Circinella;Circinella simplex
+978;299373;EU169409.1.1242;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+979;299885;U35394.38.1890;Entomophthoromycotina;Entomophthorales;Entomophthorales;Entomophaga;Entomophaga;Entomophaga aulicae
+980;300437;JN940695.1.1899;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium orthocladii
+981;302408;KC708357.1.1678;Glomeromycotina;Glomerales;Glomerales;Sclerocystis;Glomeromycotina;Glomeromycotina sp. MIB 8859
+982;302673;Z14011.1.1724;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Entrophospora;Entrophospora sp. WV 796
+983;303279;MG829283.1.1646;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+984;303308;MG829397.1.1655;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+985;304325;GU568169.1.1550;Incertae Sedis;Rhizophlyctidales;Rhizophlyctidales;Rhizophlyctis;uncultured;uncultured fungus
+986;305603;AY903709.1.1535;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+987;305621;JX155626.1.1505;Kickxellomycotina;Harpellales;Harpellales;Zancudomyces;Zancudomyces;Zancudomyces culisetae
+988;305772;DQ336488.1.1234;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+989;306412;KC708440.1.1528;Mucoromycotina;Endogonales;Endogonales;uncultured;Mucoromycotina;Mucoromycotina sp. MIB 8846
+990;307602;MG829318.1.1633;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+991;307603;MG829358.1.1653;Glomeromycotina;Glomerales;Glomerales;Septoglomus;Glomeromycotina;Glomeromycotina sp.
+992;307608;MG829530.1.1652;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+993;307609;MG829547.1.1644;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+994;307611;MG829580.1.1659;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Glomeromycotina;Glomeromycotina sp.
+995;307628;JQ689407.1.1641;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+996;308063;KC286504.1.1758;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia spiralis
+997;308097;KC297620.1.1757;Kickxellomycotina;Harpellales;Harpellales;Caudomyces sp. OR-8-W10;Caudomyces;Caudomyces sp. OR-8-W10
+998;308386;DQ336462.1.1237;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+999;310365;KC708392.1.1606;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. MIB 8438.2
+1000;310373;KC708424.1.1606;Mucoromycotina;Endogonales;Endogonales;Endogone;Mucoromycotina;Mucoromycotina sp. MIB 8855
+1001;311129;MG829304.1.1637;Glomeromycotina;Diversisporales;;;Glomeromycotina;Glomeromycotina sp.
+1002;311130;MG829411.1.1650;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+1003;311140;MG829566.1.1653;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1004;311637;DQ336485.1.1234;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+1005;312184;KF160875.1.1240;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium papillatum
+1006;312381;MG829348.1.1653;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1007;312383;MG829383.1.1655;Glomeromycotina;uncultured;;;Glomeromycotina;Glomeromycotina sp.
+1008;312389;MG829492.1.1656;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+1009;312391;MG829512.1.1652;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1010;312423;JQ689420.1.1498;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+1011;312424;JQ689451.1.1658;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+1012;312692;JX099080.1.1680;Incertae Sedis;Spizellomycetales;Spizellomycetales;uncultured eukaryote;uncultured;uncultured eukaryote
+1013;315232;AY903711.1.1530;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+1014;316168;KF160873.1.1247;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium epilobii
+1015;316936;KT285731.1.1652;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured fungus
+1016;317090;MH201389.1.1657;Mucoromycotina;Mucorales;Mucorales;Mycotypha;Mycotypha;Mycotypha indica
+1017;317189;EU417636.1.1691;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+1018;318099;EU417619.1.1687;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+1019;318631;U96141.1.1316;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis mosseae
+1020;318635;X58725.1.1747;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Rhizophagus;Rhizophagus intraradices
+1021;319126;X86686.1.1687;Glomeromycotina;Archaeosporales;Archaeosporales;Geosiphon;Geosiphon;Geosiphon pyriformis
+1022;320010;KF412633.1.1225;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora albida
+1023;320607;EF023601.1.1785;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1024;320829;JX099067.1.1753;Incertae Sedis;Spizellomycetales;Spizellomycetales;uncultured eukaryote;uncultured;uncultured eukaryote
+1025;320831;JX099123.1.1750;Incertae Sedis;Spizellomycetales;Spizellomycetales;uncultured eukaryote;uncultured;uncultured eukaryote
+1026;321667;MG829384.1.1654;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1027;321705;MG829594.1.1656;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1028;324431;AY903735.1.1523;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+1029;324775;GU568152.1.1550;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured fungus
+1030;324984;KF160878.1.1240;Incertae Sedis;Incertae Sedis;Chytridiales;Synchytrium;Synchytrium;Synchytrium stachydis
+1031;325548;U96142.1.1331;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis mosseae
+1032;325554;X58726.1.1748;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora rosea
+1033;326939;KC286509.1.1761;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia helicoidea
+1034;327619;AY903733.1.1525;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+1035;328740;EF024313.1.1783;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Nucleariidae
+1036;328822;DQ336476.1.1235;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+1037;329109;KF805737.1.1740;Mucoromycotina;Mucorales;Mucorales;Circinella;Circinella;Circinella muscae
+1038;329114;KF805741.1.1732;Mucoromycotina;Mucorales;Mucorales;Circinella;Circinella;Circinella umbellata
+1039;330187;AY903730.1.1517;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+1040;330446;KC708345.1.1665;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp. MIB 8442;Glomeromycotina;Glomeromycotina sp. MIB 8442
+1041;331113;MG829293.1.1654;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1042;331114;MG829391.1.1650;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1043;331120;MG829600.1.1644;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+1044;331142;JQ689435.1.1682;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+1045;331483;MG600404.1.1897;Ascomycota;Sordariomycetes;;;Rhamphoriopsis;Rhamphoriopsis muriformis
+1046;332435;EU371354.1.1766;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured eukaryote
+1047;333193;U96146.1.1322;Glomeromycotina;Diversisporales;Diversisporales;Gigaspora;Gigaspora;Gigaspora decipiens
+1048;333337;EF024835.1.1792;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1049;333423;X89435.1.1739;Mucoromycotina;Umbelopsidales;Umbelopsidales;Umbelopsis;Umbelopsis;Umbelopsis ramanniana
+1050;333437;Z14013.1.1696;Glomeromycotina;Diversisporales;Diversisporales;Scutellospora;Scutellospora;Scutellospora dipapillosa
+1051;333824;MG829390.1.1653;Glomeromycotina;Archaeosporales;Archaeosporales;Glomeromycotina sp.;Glomeromycotina;Glomeromycotina sp.
+1052;333830;MG829500.1.1654;Glomeromycotina;Glomerales;;;Glomeromycotina;Glomeromycotina sp.
+1053;333833;MG829556.1.1654;Glomeromycotina;Glomerales;Glomerales;Septoglomus;Glomeromycotina;Glomeromycotina sp.
+1054;333875;JQ689434.1.1423;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+1055;334360;EF023215.1.1787;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1056;334465;EF024018.1.1800;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Eimeriidae
+1057;335724;MG829385.1.1655;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;Glomeromycotina;Glomeromycotina sp.
+1058;335729;MG829458.1.1653;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1059;335739;MG829498.1.1654;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1060;336343;EU417589.1.1687;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;uncultured;uncultured Glomus
+1061;336639;KT285752.1.1653;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured fungus
+1062;336676;DQ336477.1.1237;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+1063;337560;U63471.1.1753;Basidiomycota;Agaricomycetes;Hymenochaetales;;Trichaptum;Trichaptum laricinum
+1064;338036;JX296576.1.1809;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured fungus;uncultured;uncultured fungus
+1065;339196;DQ244008.1.1786;Incertae Sedis;Neocallimastigales;Neocallimastigales;uncultured;uncultured;uncultured fungus
+1066;342912;MH444360.1.1483;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;fungal;fungal sp.
+1067;346724;DQ336448.1.1233;Glomeromycotina;Glomerales;Glomerales;uncultured Glomus;uncultured;uncultured Glomus
+1068;346733;DQ336500.1.1236;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+1069;347643;U75303.1.1747;Basidiomycota;Pucciniomycetes;Helicobasidiales;;Helicobasidium;Helicobasidium corticioides
+1070;347847;KF586842.1.1790;Incertae Sedis;Gromochytriales;Gromochytriales;Gromochytrium;Gromochytrium;Gromochytrium mamkaevae
+1071;347881;HM486988.1.1360;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured fungus
+1072;349159;EF023142.1.1788;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1073;349264;GU568148.1.1570;Incertae Sedis;Rhizophlyctidales;Rhizophlyctidales;Rhizophlyctis;uncultured;uncultured fungus
+1074;350734;EF023463.1.1793;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1075;350767;EF023629.1.1780;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1076;353090;AY903731.1.1524;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured glomeraceous AM fungus
+1077;355213;KC286506.1.1755;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;Coemansia;Coemansia biformis
+1078;355244;KC297622.1.1773;Kickxellomycotina;Harpellales;Harpellales;Harpella sp. NF-MC-18;Harpella;Harpella sp. NF-MC-18
+1079;355357;DQ336503.1.1235;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+1080;358595;MG829459.1.1651;Glomeromycotina;Glomerales;Glomerales;Glomus;Glomeromycotina;Glomeromycotina sp.
+1081;358602;MG829499.1.1659;Glomeromycotina;Diversisporales;Diversisporales;Acaulospora;Glomeromycotina;Glomeromycotina sp.
+1082;358666;JQ689433.1.1675;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured Chytridiomycota;uncultured;uncultured Chytridiomycota
+1083;358970;HM487033.1.1358;Incertae Sedis;Cladochytriales;Chytridiales;Nowakowskiella;uncultured;uncultured fungus
+1084;361369;U96140.1.1327;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis mosseae
+1085;364228;DQ336459.1.1232;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+1086;365963;EF023210.1.1786;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Nucleariidae
+1087;367762;EF023584.1.1786;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1088;370642;DQ336453.1.1235;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+1089;370903;DQ336458.1.1232;Glomeromycotina;Glomerales;Glomerales;Sclerocystis;uncultured;uncultured Glomus
+1090;376448;HM486974.1.1367;Incertae Sedis;Cladochytriales;Chytridiales;Nowakowskiella;uncultured;uncultured fungus
+1091;376453;HM487034.1.1358;Incertae Sedis;Cladochytriales;Chytridiales;Nowakowskiella;uncultured;uncultured fungus
+1092;377537;EF100242.1.1399;Incertae Sedis;Chytridiales;Chytridiales;uncultured;uncultured;uncultured eukaryote
+1093;382988;U96139.1.1324;Glomeromycotina;Glomerales;Glomerales;Funneliformis;Funneliformis;Funneliformis mosseae
+1094;385387;GQ330621.1.1466;Incertae Sedis;Cladochytriales;Cladochytriales;Cladochytrium;uncultured;uncultured Chytridiomycota
+1095;387552;JX099097.1.1743;Incertae Sedis;Spizellomycetales;Spizellomycetales;uncultured eukaryote;uncultured;uncultured eukaryote
+1096;392147;EF023359.1.1784;Basidiomycota;Pucciniomycetes;Platygloeales;uncultured Sphaerophragmiaceae;uncultured;uncultured Sphaerophragmiaceae
+1097;394644;EF109862.1.1220;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+1098;397275;HM486967.1.1359;Incertae Sedis;Cladochytriales;Chytridiales;Nowakowskiella;uncultured;uncultured fungus
+1099;398799;KT923266.1.1379;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Mortierella
+1100;399191;EF023376.1.1851;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1101;400695;JNEO01017498.2843.4069;Entomophthoromycotina;Basidiobolales;Basidiobolales;Basidiobolus;Basidiobolus;Basidiobolus meristosporus B9252
+1102;401423;GU825624.1.1390;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured eukaryote
+1103;402469;EF100268.1.1402;Incertae Sedis;Chytridiales;Chytridiales;uncultured;uncultured;uncultured eukaryote
+1104;402471;EF100286.1.1342;Incertae Sedis;Chytridiales;Chytridiales;uncultured;uncultured;uncultured eukaryote
+1105;402703;JNEM01014613.13385.14811;Entomophthoromycotina;Entomophthorales;Entomophthorales;Conidiobolus;Conidiobolus;Conidiobolus incongruus B7586
+1106;404446;EF109863.1.1220;Glomeromycotina;Glomerales;Glomerales;Glomus;uncultured;uncultured Glomus
+1107;405584;KX771763.1.1736;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured;uncultured;uncultured eukaryote
+1108;407221;KX533355.1.1361;Mucoromycotina;Mucorales;Mucorales;Rhizopus;uncultured;uncultured marine eukaryote
+1109;412499;KU359454.1.1772;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured fungus
+1110;415293;MCGN01000039.3501.5326;Mucoromycotina;Mucorales;Mucorales;Syncephalastrum;Syncephalastrum;Syncephalastrum racemosum
+1111;416188;JX294297.1.1779;Mucoromycotina;Mucorales;Mucorales;Cunninghamella;uncultured;uncultured fungus
+1112;417458;FPLS01007336.63.1313;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;metagenome;
+1113;417605;FPLS01038904.11.1272;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1114;417830;FPLS01059722.6.1236;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1115;418248;EF023703.1.1854;Mucoromycotina;Endogonales;Endogonales;uncultured;uncultured;uncultured Eimeriidae
+1116;429079;EF024210.1.1789;Incertae Sedis;Neocallimastigales;Neocallimastigales;uncultured;uncultured;uncultured Nucleariidae
+1117;429092;EF024695.1.1787;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1118;433420;EF100195.1.1563;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured;uncultured;uncultured eukaryote
+1119;433746;KX771764.1.1725;Incertae Sedis;Chytridiales;Chytridiales;uncultured eukaryote;uncultured;uncultured eukaryote
+1120;435922;ACDU01008454.2.1649;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1121;436144;FPLS01008200.4.1227;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1122;436429;MCFD01000222.4310.6124;Kickxellomycotina;Kickxellales;Kickxellales;Linderina;Linderina;Linderina pennispora
+1123;436672;MCGO01000014.639351.640553;Incertae Sedis;Chytridiales;Chytridiales;Rhizoclosmatium;Rhizoclosmatium;Rhizoclosmatium globosum
+1124;436698;MCGO01000275.40576.42362;Incertae Sedis;Chytridiales;Chytridiales;Rhizoclosmatium;Rhizoclosmatium;Rhizoclosmatium globosum
+1125;437750;MCGT01000103.1846.3189;Mucoromycotina;Mucorales;Mucorales;Hesseltinella;Hesseltinella;Hesseltinella vesiculosa
+1126;440155;FJ157331.1.1663;Incertae Sedis;Gromochytriales;Gromochytriales;uncultured eukaryote;uncultured;uncultured eukaryote
+1127;440753;EF024768.1.1790;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured Eimeriidae
+1128;441022;ASRE01027869.1385.2732;Incertae Sedis;Neocallimastigales;Neocallimastigales;Pecoramyces;Orpinomyces;Orpinomyces sp. C1A
+1129;441102;JNDN01001022.505.2325;Mucoromycotina;Mucorales;Mucorales;Syncephalastrum;Syncephalastrum;Syncephalastrum racemosum B6101
+1130;441808;FPLS01009102.46.1261;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1131;446574;MCGT01000083.9724.11537;Mucoromycotina;Mucorales;Mucorales;Hesseltinella;Hesseltinella;Hesseltinella vesiculosa
+1132;446758;ASRE01015861.837.2630;Incertae Sedis;Neocallimastigales;Neocallimastigales;Orpinomyces sp. C1A;Orpinomyces;Orpinomyces sp. C1A
+1133;446988;KX771765.1.1742;Incertae Sedis;Spizellomycetales;Spizellomycetales;Geranomyces;uncultured;uncultured eukaryote
+1134;447615;MCOG01000947.965.2761;Incertae Sedis;Neocallimastigales;Neocallimastigales;Neocallimastix;Neocallimastix;Neocallimastix californiae
+1135;448616;KU359435.1.1720;Kickxellomycotina;Kickxellales;Kickxellales;uncultured fungus;uncultured;uncultured fungus
+1136;448739;LC222925.1.1715;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured eukaryote
+1137;451524;KM870669.1.1731;Incertae Sedis;Chytridiales;Chytridiales;uncultured eukaryote;uncultured;uncultured eukaryote
+1138;452869;KU359470.1.1773;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured fungus
+1139;452982;FPLS01041703.1.1356;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1140;452986;KX533185.1.1341;Incertae Sedis;Rhizophydiales;Rhizophydiales;uncultured marine eukaryote;uncultured;uncultured marine eukaryote
+1141;456574;ACOE01000320.653.1907;Incertae Sedis;Spizellomycetales;Spizellomycetales;Spizellomyces;Spizellomyces;Spizellomyces punctatus DAOM BR117
+1142;456577;ACDU01008455.76250.77993;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1143;456579;FPLL01003425.73.1332;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1144;456881;AGBC01000333.413.2024;Mucoromycotina;Mucorales;Mucorales;Rhizomucor;Rhizomucor;Rhizomucor miehei CAU432
+1145;457240;FPLS01057921.5.1244;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1146;460996;JNDM01000989.2.1805;Mucoromycotina;Mucorales;Mucorales;Mucor circinelloides B8987;Mucor;Mucor circinelloides B8987
+1147;464312;ACDU01008455.64559.66291;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1148;464503;FPLS01004339.8.1251;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1149;464921;FPLL01001096.9.1797;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1150;465091;FPLL01004821.8.1663;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1151;465484;FPLS01042740.8.1550;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1152;467397;FPLL01005244.3.1274;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1153;467469;FPLL01007192.14.1812;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1154;467566;FPLS01030657.18.1387;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;metagenome;
+1155;468861;APFE030534828.1867.3653;Ascomycota;Sordariomycetes;Pinales;;Pinus;Pinus taeda (loblolly pine)
+1156;469897;ASRE01017410.444.2254;Incertae Sedis;Neocallimastigales;Neocallimastigales;Orpinomyces sp. C1A;Orpinomyces;Orpinomyces sp. C1A
+1157;472276;LC050422.1.1580;Mucoromycotina;Mucorales;Mucorales;Rhizopus;uncultured;uncultured Amylomyces
+1158;473323;MCGN01000020.1103.2923;Mucoromycotina;Mucorales;Mucorales;Syncephalastrum;Syncephalastrum;Syncephalastrum racemosum
+1159;473415;ACDU01008457.483.2353;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1160;474204;ACDU01008455.41119.42862;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1161;474757;FPLS01053685.6.1498;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1162;475142;LC222965.1.1550;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured eukaryote
+1163;477045;ACDU01008455.17746.19468;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1164;477240;KU359434.1.1712;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured fungus
+1165;477852;FPLS01029913.1.1267;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1166;478127;FPLS01048671.1.1234;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1167;478973;MCGT01000103.1542.2816;Mucoromycotina;Mucorales;Mucorales;Hesseltinella;Hesseltinella;Hesseltinella vesiculosa
+1168;480810;KU359445.1.1781;Mucoromycotina;Endogonales;Endogonales;Endogone;uncultured;uncultured fungus
+1169;481887;ACDU01008455.52810.54553;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1170;482071;FPLS01009768.9.1275;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;metagenome;
+1171;482098;FPLS01019919.1.1513;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;metagenome;
+1172;482259;FPLL01000999.12.1580;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1173;482802;FPLS01047101.13.1220;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1174;483569;FPLS01009691.12.1222;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1175;486409;ASRE01024964.14.1302;Incertae Sedis;Neocallimastigales;Neocallimastigales;Orpinomyces sp. C1A;Orpinomyces;Orpinomyces sp. C1A
+1176;486630;ACDU01008445.505.2376;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1177;486970;FPLS01051204.13.1326;Glomeromycotina;Glomerales;Glomerales;Rhizophagus;metagenome;
+1178;488244;JNET01028240.4251.6013;Entomophthoromycotina;Basidiobolales;Basidiobolales;Basidiobolus;Basidiobolus;Basidiobolus heterosporus B8920
+1179;489615;ASRE01025564.1.1200;Incertae Sedis;Neocallimastigales;Neocallimastigales;Pecoramyces;Orpinomyces;Orpinomyces sp. C1A
+1180;490158;MCGE01000077.4315.6119;Mucoromycotina;Mucorales;Mucorales;Absidia;Absidia;Absidia repens
+1181;491113;ACDU01008451.710.2580;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1182;491983;ADAG01001078.1100.2889;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;Mortierella;Mortierella alpina ATCC 32222
+1183;492786;ASRE01026561.10.1585;Incertae Sedis;Neocallimastigales;Neocallimastigales;Orpinomyces sp. C1A;Orpinomyces;Orpinomyces sp. C1A
+1184;492805;LAJJ01000008.411617.413391;Ascomycota;Leotiomycetes;Thelebolales;;Pseudogymnoascus;Pseudogymnoascus destructans
+1185;492807;LKKR01000547.1066.2851;Ascomycota;Dothideomycetes;Mytilinidiales;Cenococcum geophilum 1.58;Cenococcum;Cenococcum geophilum 1.58
+1186;494400;ACDU01008455.5986.7858;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1187;494408;FPLS01000438.1.1363;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;metagenome;
+1188;494586;FPLL01004541.10.1662;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;metagenome;
+1189;494776;FPLS01032461.8.1247;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1190;497463;JN705531.1.1314;Incertae Sedis;Lobulomycetales;Lobulomycetales;uncultured microeukaryote;uncultured;uncultured microeukaryote
+1191;497725;FPLS01057617.9.1578;Kickxellomycotina;Kickxellales;Kickxellales;Coemansia;metagenome;
+1192;498342;MCFH01000027.7579.9372;Incertae Sedis;Neocallimastigales;Neocallimastigales;Piromyces;Piromyces;Piromyces finnis
+1193;499026;ASRE01017634.14.1697;Incertae Sedis;Neocallimastigales;Neocallimastigales;Orpinomyces sp. C1A;Orpinomyces;Orpinomyces sp. C1A
+1194;499059;LC050423.1.1579;Mucoromycotina;Mucorales;Mucorales;Rhizopus;uncultured;uncultured Amylomyces
+1195;499413;LSSL01001007.6765.8726;Kickxellomycotina;Harpellales;Harpellales;Smittium;Smittium;Smittium mucronatum
+1196;499893;ACDU01008455.29430.31173;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1197;500160;FPLS01044527.6.1306;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1198;500162;FPLS01045495.3.1229;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1199;501563;KU359436.1.1695;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured fungus
+1200;504117;ACDU01008416.131.1814;Incertae Sedis;Blastocladiales;Blastocladiales;Allomyces;Allomyces;Allomyces macrogynus ATCC 38327
+1201;504859;KU359464.1.1773;Mortierellomycotina;Mortierellales;Mortierellales;Mortierella;uncultured;uncultured fungus
+1202;505472;FPLS01003336.8.1215;Glomeromycotina;Glomerales;Glomerales;Claroideoglomus;metagenome;
+1203;505770;ASRE01020787.756.1958;Incertae Sedis;Neocallimastigales;Neocallimastigales;Pecoramyces;Orpinomyces;Orpinomyces sp. C1A
+1204;507117;FPLS01036247.1.1227;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1205;507670;LVWK01001221.5488.7236;Mucoromycotina;Mucorales;Mucorales;Gongronella;Gongronella;Gongronella sp. w5
+1206;507789;ASRE01017662.622.2046;Incertae Sedis;Neocallimastigales;Neocallimastigales;Pecoramyces;Orpinomyces;Orpinomyces sp. C1A
+1207;508211;ASRE01020185.795.2403;Incertae Sedis;Neocallimastigales;Neocallimastigales;Orpinomyces sp. C1A;Orpinomyces;Orpinomyces sp. C1A
+1208;508782;ASRE01020537.189.1426;Incertae Sedis;Neocallimastigales;Neocallimastigales;Orpinomyces sp. C1A;Orpinomyces;Orpinomyces sp. C1A
+1209;510092;FPLL01005621.8.1282;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1210;510210;FPLS01061315.24.1339;Glomeromycotina;Glomerales;Glomerales;Glomus;metagenome;
+1211;510453;ASRE01020427.119.1424;Incertae Sedis;Neocallimastigales;Neocallimastigales;Pecoramyces;Orpinomyces;Orpinomyces sp. C1A
+1212;510491;LUVW01000002.45778.47642;Kickxellomycotina;Harpellales;Harpellales;Capniomyces;Capniomyces;Capniomyces stellatus
