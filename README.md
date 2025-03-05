@@ -1,4 +1,5 @@
 # code from "Unveiling the rich and functionally diverse Southern Brazilian Highland Grasslands soil funga for promoting conservation"
+### contact: kelmermartinscunha@gmail.com
 
 All necessary code and data for replicating the results presented in the article entitled "Unveiling the rich and functionally diverse Southern Brazilian Highland Grasslands soil funga for promoting conservation" can be found in this repository. R and python scripts are named based on which analyses were perfomed, and throghouly documented for guiding the execution of each step in the analysis pipeline.
 
