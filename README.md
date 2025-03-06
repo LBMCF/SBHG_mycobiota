@@ -1,7 +1,7 @@
 # code from "Unveiling the rich and functionally diverse Southern Brazilian Highland Grasslands soil funga for promoting conservation" v1.0
 ### contact: kelmermartinscunha@gmail.com
 
-All necessary code and data for replicating the results presented in the article entitled "Unveiling the rich and functionally diverse Southern Brazilian Highland Grasslands soil funga for promoting conservation" can be found in this repository. R and python scripts are named based on which analyses were perfomed, and throghouly documented for guiding the execution of each step in the analysis pipeline.
+All necessary code and data for replicating the results presented in the article entitled "Unveiling the rich and functionally diverse Southern Brazilian Highland Grasslands soil funga for promoting conservation" can be found in this repository (except for SortMeRNA blast-like files, which are available at 10.5281/zenodo.14982668). R and python scripts are named based on which analyses were perfomed, and throghouly documented for guiding the execution of each step in the analysis pipeline.
 
 Raw shotgun metagenomic data can be found under NCBI BioProject PRJNA1227467 along with additional environmental, geographic, and sampling metadata available within BioSamples associated with the aforementioned BioProject.
 
